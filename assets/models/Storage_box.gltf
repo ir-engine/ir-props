@@ -1,0 +1,671 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v4.0.44",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"sun_pos_properties":{
+					"show_surface":0,
+					"show_analemmas":0,
+					"show_north":0,
+					"latitude":0.0,
+					"day_of_year":144,
+					"sun_object":{},
+					"object_collection":{}
+				},
+				"puresky_properties":{
+					"int_flag_updt_camera":1
+				},
+				"sna_icongallery":15,
+				"HubsComponentsExtensionProperties":{},
+				"hubs_component_list":{},
+				"scatter_properties":{},
+				"recast_navmesh":{},
+				"uuid":"8a4c1f9f-8de0-43f0-8fc2-6341770a162b",
+				"assets reported":{},
+				"true_sky":{
+					"presets":{
+						"full_sky_preset":{
+							"presets":[
+								{
+									"name":"Default",
+									"display_name":"Default"
+								},
+								{
+									"name":"Morning",
+									"display_name":"Morning"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Midday",
+									"display_name":"Midday"
+								},
+								{
+									"name":"Azure Afternoon",
+									"display_name":"Azure Afternoon"
+								},
+								{
+									"name":"Dusty Afternoon",
+									"display_name":"Dusty Afternoon"
+								},
+								{
+									"name":"Dusk",
+									"display_name":"Dusk"
+								},
+								{
+									"name":"Dusty Dusk",
+									"display_name":"Dusty Dusk"
+								},
+								{
+									"name":"Alien Morning",
+									"display_name":"Alien Morning"
+								},
+								{
+									"name":"Alien Gas Desert",
+									"display_name":"Alien Gas Desert"
+								},
+								{
+									"name":"Alien Day",
+									"display_name":"Alien Day"
+								},
+								{
+									"name":"Mars",
+									"display_name":"Mars"
+								}
+							]
+						},
+						"time_preset":{
+							"presets":[
+								{
+									"name":"Sunrise",
+									"display_name":"Sunrise"
+								},
+								{
+									"name":"Morning - Golden Hour End",
+									"display_name":"Morning - Golden Hour End"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Noon",
+									"display_name":"Noon"
+								},
+								{
+									"name":"Afternoon",
+									"display_name":"Afternoon"
+								},
+								{
+									"name":"Evening - Golden Hour Start",
+									"display_name":"Evening - Golden Hour Start"
+								},
+								{
+									"name":"Sunset",
+									"display_name":"Sunset"
+								}
+							]
+						},
+						"sol_hsv_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Test",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Venus",
+									"display_name":"Venus"
+								},
+								{
+									"name":"Saturated",
+									"display_name":"Saturated"
+								},
+								{
+									"name":"Desaturated",
+									"display_name":"Desaturated"
+								}
+							]
+						},
+						"atmosphere_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Dusty",
+									"display_name":"Dusty"
+								}
+							]
+						},
+						"haze_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Polluted",
+									"display_name":"Polluted"
+								},
+								{
+									"name":"Drab",
+									"display_name":"Drab"
+								},
+								{
+									"name":"Other",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Green",
+									"display_name":"Green"
+								}
+							]
+						},
+						"fog_preset":{
+							"presets":[
+								{
+									"name":"Fog Clear",
+									"display_name":"Fog Clear"
+								},
+								{
+									"name":"Fog Dense",
+									"display_name":"Fog Dense"
+								},
+								{
+									"name":"",
+									"display_name":"Fog Blanket"
+								},
+								{
+									"name":"Fog Stormy",
+									"display_name":"Fog Stormy"
+								},
+								{
+									"name":"Fog (Sandy)",
+									"display_name":"Fog (Sandy/Dust)"
+								}
+							]
+						},
+						"night_sky_preset":{
+							"presets":[
+								{
+									"name":"Test",
+									"display_name":"Clear Night"
+								},
+								{
+									"name":"Clear Night w/o Moon",
+									"display_name":"Clear Night w/o Moon"
+								},
+								{
+									"name":"Test 2",
+									"display_name":"Hazy Night"
+								},
+								{
+									"name":"Hazy Night w/o Moon",
+									"display_name":"Hazy Night w/o Moon"
+								}
+							]
+						},
+						"night_hdris_preset":{
+							"presets":[
+								{
+									"name":"Earth Night",
+									"display_name":"Earth Night"
+								},
+								{
+									"name":"Interstellar Nursery",
+									"display_name":"Interstellar Nursery"
+								},
+								{
+									"name":"Black Hole",
+									"display_name":"Black Hole"
+								},
+								{
+									"name":"Blue Nebula",
+									"display_name":"Blue Nebula"
+								},
+								{
+									"name":"Red Nebula",
+									"display_name":"Blue Clouds"
+								},
+								{
+									"name":"Red Gas",
+									"display_name":"Red Gas"
+								},
+								{
+									"name":"Great Portal",
+									"display_name":"Great Portal"
+								},
+								{
+									"name":"Orange Nebula",
+									"display_name":"Orange Nebula"
+								}
+							]
+						},
+						"moon_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Earth Moon"
+								},
+								{
+									"name":"Super Moon",
+									"display_name":"Super Moon"
+								}
+							]
+						},
+						"moon_phase_preset":{
+							"presets":[
+								{
+									"name":"Waxing Crescent",
+									"display_name":"Waxing Crescent"
+								},
+								{
+									"name":"First Quarter",
+									"display_name":"First Quarter"
+								},
+								{
+									"name":"Waxing Gibbous",
+									"display_name":"Waxing Gibbous"
+								},
+								{
+									"name":"Full",
+									"display_name":"Full"
+								},
+								{
+									"name":"Waning Gibbous",
+									"display_name":"Waning Gibbous"
+								},
+								{
+									"name":"Third Quarter",
+									"display_name":"Third Quarter"
+								},
+								{
+									"name":"Waning Crescent",
+									"display_name":"Waning Crescent"
+								}
+							]
+						},
+						"nebula_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Pale Wisp",
+									"display_name":"Pale Wisp"
+								},
+								{
+									"name":"Golden Flares",
+									"display_name":"Golden Flares"
+								}
+							]
+						},
+						"stars_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Deep Space",
+									"display_name":"Deep Space"
+								},
+								{
+									"name":"Starry Night",
+									"display_name":"Starry Night"
+								}
+							]
+						},
+						"night_clarity_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Intense",
+									"display_name":"City Lights"
+								}
+							]
+						},
+						"cloud_preset":{
+							"presets":[
+								{
+									"name":"tVFX_Clouds-Stratocumulus",
+									"display_name":"Stratocumulus"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulus Mediocris",
+									"display_name":"Cumulus Mediocris"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulonimbus",
+									"display_name":"Cumulonimbus"
+								},
+								{
+									"name":"tVFX_Clouds-Cirrus",
+									"display_name":"Cirrus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Translucidus",
+									"display_name":"Altostratus Translucidus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Opacus",
+									"display_name":"Altostratus Opacus"
+								},
+								{
+									"name":"tVFX_Clouds-Altocumulus",
+									"display_name":"Altocumulus"
+								}
+							]
+						}
+					},
+					"performance":{
+						"performance_items":[
+							{
+								"name":"Testing"
+							},
+							{
+								"name":"Viewport Render Region"
+							},
+							{
+								"name":"Pixel Size"
+							},
+							{
+								"name":"Tile Size"
+							},
+							{
+								"name":"True-Speed"
+							}
+						]
+					}
+				},
+				"srr_settings":{
+					"status":{
+						"is_rendering":0,
+						"should_stop":0
+					}
+				}
+			},
+			"name":"Scene",
+			"nodes":[
+				2
+			]
+		}
+	],
+	"nodes":[
+		{
+			"extras":{
+				"Treezy":{},
+				"hubs_component_list":{}
+			},
+			"mesh":0,
+			"name":"Storage box.001",
+			"translation":[
+				0,
+				0.25,
+				0
+			]
+		},
+		{
+			"extras":{
+				"xrengine.entity":"Storage box.001_Box_Collider",
+				"xrengine.EE_collider.shape":"box"
+			},
+			"mesh":1,
+			"name":"Storage box.001_Box_Collider",
+			"rotation":[
+				0.7071067094802856,
+				0,
+				-0.7071068286895752,
+				5.485497922563809e-08
+			],
+			"scale":[
+				0.25,
+				0.2500000596046448,
+				0.2500000596046448
+			],
+			"translation":[
+				0,
+				0.25,
+				0
+			]
+		},
+		{
+			"children":[
+				0,
+				1
+			],
+			"extras":{
+				"xrengine.entity":"kit LP.010",
+				"xrengine.EE_rigidbody.type":"fixed"
+			},
+			"name":"Storage box"
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"extras":{
+				"hubs_component_list":{}
+			},
+			"name":"Wood Furniture Kit.001",
+			"normalTexture":{
+				"index":0
+			},
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
+				"metallicRoughnessTexture":{
+					"index":2
+				}
+			}
+		}
+	],
+	"meshes":[
+		{
+			"name":"Cube.036",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":0,
+						"NORMAL":1,
+						"TEXCOORD_0":2
+					},
+					"indices":3,
+					"material":0
+				}
+			]
+		},
+		{
+			"name":"Cube.011",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":4,
+						"NORMAL":5,
+						"TEXCOORD_0":6
+					},
+					"indices":7
+				}
+			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Wood_Furniture_modular_Normal_OpenGL",
+			"uri":"textures/Wood_Furniture_modular_Normal_OpenGL.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Wood_Furniture_modular_Base_color",
+			"uri":"textures/Wood_Furniture_modular_Base_color.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness",
+			"uri":"textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png"
+		}
+	],
+	"accessors":[
+		{
+			"bufferView":0,
+			"componentType":5126,
+			"count":312,
+			"max":[
+				0.25,
+				0.25,
+				0.25
+			],
+			"min":[
+				-0.25,
+				-0.25,
+				-0.25
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":1,
+			"componentType":5126,
+			"count":312,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":2,
+			"componentType":5126,
+			"count":312,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":3,
+			"componentType":5123,
+			"count":876,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":4,
+			"componentType":5126,
+			"count":24,
+			"max":[
+				1,
+				1,
+				1
+			],
+			"min":[
+				-1,
+				-1,
+				-1
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":5,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":6,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":7,
+			"componentType":5123,
+			"count":36,
+			"type":"SCALAR"
+		}
+	],
+	"bufferViews":[
+		{
+			"buffer":0,
+			"byteLength":3744,
+			"byteOffset":0,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":3744,
+			"byteOffset":3744,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":2496,
+			"byteOffset":7488,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":1752,
+			"byteOffset":9984,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":288,
+			"byteOffset":11736,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":288,
+			"byteOffset":12024,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":192,
+			"byteOffset":12312,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":72,
+			"byteOffset":12504,
+			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
+		}
+	],
+	"buffers":[
+		{
+			"byteLength":12576,
+			"uri":"Storage_box.bin"
+		}
+	]
+}

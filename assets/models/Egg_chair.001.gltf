@@ -1,0 +1,655 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v4.0.44",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"sun_pos_properties":{
+					"show_surface":0,
+					"show_analemmas":0,
+					"show_north":0,
+					"latitude":0.0,
+					"day_of_year":155,
+					"sun_object":{},
+					"object_collection":{}
+				},
+				"true_sky":{
+					"presets":{
+						"full_sky_preset":{
+							"presets":[
+								{
+									"name":"Default",
+									"display_name":"Default"
+								},
+								{
+									"name":"Morning",
+									"display_name":"Morning"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Midday",
+									"display_name":"Midday"
+								},
+								{
+									"name":"Azure Afternoon",
+									"display_name":"Azure Afternoon"
+								},
+								{
+									"name":"Dusty Afternoon",
+									"display_name":"Dusty Afternoon"
+								},
+								{
+									"name":"Dusk",
+									"display_name":"Dusk"
+								},
+								{
+									"name":"Dusty Dusk",
+									"display_name":"Dusty Dusk"
+								},
+								{
+									"name":"Alien Morning",
+									"display_name":"Alien Morning"
+								},
+								{
+									"name":"Alien Gas Desert",
+									"display_name":"Alien Gas Desert"
+								},
+								{
+									"name":"Alien Day",
+									"display_name":"Alien Day"
+								},
+								{
+									"name":"Mars",
+									"display_name":"Mars"
+								}
+							]
+						},
+						"time_preset":{
+							"presets":[
+								{
+									"name":"Sunrise",
+									"display_name":"Sunrise"
+								},
+								{
+									"name":"Morning - Golden Hour End",
+									"display_name":"Morning - Golden Hour End"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Noon",
+									"display_name":"Noon"
+								},
+								{
+									"name":"Afternoon",
+									"display_name":"Afternoon"
+								},
+								{
+									"name":"Evening - Golden Hour Start",
+									"display_name":"Evening - Golden Hour Start"
+								},
+								{
+									"name":"Sunset",
+									"display_name":"Sunset"
+								}
+							]
+						},
+						"sol_hsv_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Test",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Venus",
+									"display_name":"Venus"
+								},
+								{
+									"name":"Saturated",
+									"display_name":"Saturated"
+								},
+								{
+									"name":"Desaturated",
+									"display_name":"Desaturated"
+								}
+							]
+						},
+						"atmosphere_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Dusty",
+									"display_name":"Dusty"
+								}
+							]
+						},
+						"haze_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Polluted",
+									"display_name":"Polluted"
+								},
+								{
+									"name":"Drab",
+									"display_name":"Drab"
+								},
+								{
+									"name":"Other",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Green",
+									"display_name":"Green"
+								}
+							]
+						},
+						"fog_preset":{
+							"presets":[
+								{
+									"name":"Fog Clear",
+									"display_name":"Fog Clear"
+								},
+								{
+									"name":"Fog Dense",
+									"display_name":"Fog Dense"
+								},
+								{
+									"name":"",
+									"display_name":"Fog Blanket"
+								},
+								{
+									"name":"Fog Stormy",
+									"display_name":"Fog Stormy"
+								},
+								{
+									"name":"Fog (Sandy)",
+									"display_name":"Fog (Sandy/Dust)"
+								}
+							]
+						},
+						"night_sky_preset":{
+							"presets":[
+								{
+									"name":"Test",
+									"display_name":"Clear Night"
+								},
+								{
+									"name":"Clear Night w/o Moon",
+									"display_name":"Clear Night w/o Moon"
+								},
+								{
+									"name":"Test 2",
+									"display_name":"Hazy Night"
+								},
+								{
+									"name":"Hazy Night w/o Moon",
+									"display_name":"Hazy Night w/o Moon"
+								}
+							]
+						},
+						"night_hdris_preset":{
+							"presets":[
+								{
+									"name":"Earth Night",
+									"display_name":"Earth Night"
+								},
+								{
+									"name":"Interstellar Nursery",
+									"display_name":"Interstellar Nursery"
+								},
+								{
+									"name":"Black Hole",
+									"display_name":"Black Hole"
+								},
+								{
+									"name":"Blue Nebula",
+									"display_name":"Blue Nebula"
+								},
+								{
+									"name":"Red Nebula",
+									"display_name":"Blue Clouds"
+								},
+								{
+									"name":"Red Gas",
+									"display_name":"Red Gas"
+								},
+								{
+									"name":"Great Portal",
+									"display_name":"Great Portal"
+								},
+								{
+									"name":"Orange Nebula",
+									"display_name":"Orange Nebula"
+								}
+							]
+						},
+						"moon_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Earth Moon"
+								},
+								{
+									"name":"Super Moon",
+									"display_name":"Super Moon"
+								}
+							]
+						},
+						"moon_phase_preset":{
+							"presets":[
+								{
+									"name":"Waxing Crescent",
+									"display_name":"Waxing Crescent"
+								},
+								{
+									"name":"First Quarter",
+									"display_name":"First Quarter"
+								},
+								{
+									"name":"Waxing Gibbous",
+									"display_name":"Waxing Gibbous"
+								},
+								{
+									"name":"Full",
+									"display_name":"Full"
+								},
+								{
+									"name":"Waning Gibbous",
+									"display_name":"Waning Gibbous"
+								},
+								{
+									"name":"Third Quarter",
+									"display_name":"Third Quarter"
+								},
+								{
+									"name":"Waning Crescent",
+									"display_name":"Waning Crescent"
+								}
+							]
+						},
+						"nebula_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Pale Wisp",
+									"display_name":"Pale Wisp"
+								},
+								{
+									"name":"Golden Flares",
+									"display_name":"Golden Flares"
+								}
+							]
+						},
+						"stars_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Deep Space",
+									"display_name":"Deep Space"
+								},
+								{
+									"name":"Starry Night",
+									"display_name":"Starry Night"
+								}
+							]
+						},
+						"night_clarity_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Intense",
+									"display_name":"City Lights"
+								}
+							]
+						},
+						"cloud_preset":{
+							"presets":[
+								{
+									"name":"tVFX_Clouds-Stratocumulus",
+									"display_name":"Stratocumulus"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulus Mediocris",
+									"display_name":"Cumulus Mediocris"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulonimbus",
+									"display_name":"Cumulonimbus"
+								},
+								{
+									"name":"tVFX_Clouds-Cirrus",
+									"display_name":"Cirrus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Translucidus",
+									"display_name":"Altostratus Translucidus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Opacus",
+									"display_name":"Altostratus Opacus"
+								},
+								{
+									"name":"tVFX_Clouds-Altocumulus",
+									"display_name":"Altocumulus"
+								}
+							]
+						}
+					},
+					"performance":{
+						"performance_items":[
+							{
+								"name":"Testing"
+							},
+							{
+								"name":"Viewport Render Region"
+							},
+							{
+								"name":"Pixel Size"
+							},
+							{
+								"name":"Tile Size"
+							},
+							{
+								"name":"True-Speed"
+							}
+						]
+					}
+				},
+				"srr_settings":{
+					"status":{
+						"is_rendering":0,
+						"should_stop":0
+					}
+				},
+				"puresky_properties":{
+					"int_flag_updt_camera":1
+				},
+				"uuid":"9f6dc018-979e-409a-a9f7-e580055f4fc9",
+				"assets reported":{},
+				"sna_icongallery":8
+			},
+			"name":"Scene",
+			"nodes":[
+				2
+			]
+		}
+	],
+	"nodes":[
+		{
+			"extras":{
+				"xrengine.entity":"Egg_chair_Box_Collider",
+				"xrengine.EE_collider.shape":"mesh"
+			},
+			"mesh":0,
+			"name":"Egg_chair_Box_Collider",
+			"rotation":[
+				-0.5,
+				0.5,
+				-0.5,
+				0.4999999701976776
+			],
+			"scale":[
+				0.9771260619163513,
+				0.41998055577278137,
+				0.505580723285675
+			],
+			"translation":[
+				0.001678466796875,
+				0.9649414420127869,
+				0.017086567357182503
+			]
+		},
+		{
+			"mesh":1,
+			"name":"Egg_chair"
+		},
+		{
+			"children":[
+				0,
+				1
+			],
+			"extras":{
+				"xrengine.entity":"Plane.002",
+				"xrengine.EE_rigidbody.type":"fixed"
+			},
+			"name":"Egg_chair.001"
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"name":"Furniture_cc03",
+			"normalTexture":{
+				"index":0
+			},
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
+				"metallicRoughnessTexture":{
+					"index":2
+				}
+			}
+		}
+	],
+	"meshes":[
+		{
+			"name":"Cube.006",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":0,
+						"NORMAL":1,
+						"TEXCOORD_0":2
+					},
+					"indices":3
+				}
+			]
+		},
+		{
+			"name":"Plane.024",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":4,
+						"NORMAL":5,
+						"TEXCOORD_0":6
+					},
+					"indices":7,
+					"material":0
+				}
+			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Furniture_cc03_Normal",
+			"uri":"textures/Furniture_cc03_Normal.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Furniture_cc03_BaseColor",
+			"uri":"textures/Furniture_cc03_BaseColor.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Furniture_cc03_Metallic.png-Furniture_cc03_Roughness.png",
+			"uri":"textures/Furniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.png"
+		}
+	],
+	"accessors":[
+		{
+			"bufferView":0,
+			"componentType":5126,
+			"count":151,
+			"max":[
+				1,
+				1,
+				1
+			],
+			"min":[
+				-1,
+				-1,
+				-1
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":1,
+			"componentType":5126,
+			"count":151,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":2,
+			"componentType":5126,
+			"count":151,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":3,
+			"componentType":5123,
+			"count":288,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":4,
+			"componentType":5126,
+			"count":3439,
+			"max":[
+				0.5052888989448547,
+				1.9486291408538818,
+				0.39175087213516235
+			],
+			"min":[
+				-0.5052888989448547,
+				1.1920928955078125e-07,
+				-0.3917510211467743
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":5,
+			"componentType":5126,
+			"count":3439,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":6,
+			"componentType":5126,
+			"count":3439,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":7,
+			"componentType":5123,
+			"count":17742,
+			"type":"SCALAR"
+		}
+	],
+	"bufferViews":[
+		{
+			"buffer":0,
+			"byteLength":1812,
+			"byteOffset":0,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":1812,
+			"byteOffset":1812,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":1208,
+			"byteOffset":3624,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":576,
+			"byteOffset":4832,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":41268,
+			"byteOffset":5408,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":41268,
+			"byteOffset":46676,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":27512,
+			"byteOffset":87944,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":35484,
+			"byteOffset":115456,
+			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
+		}
+	],
+	"buffers":[
+		{
+			"byteLength":150940,
+			"uri":"Egg_chair.001.bin"
+		}
+	]
+}
