@@ -1,6 +1,6 @@
 {
 	"asset":{
-		"generator":"Khronos glTF Blender I/O v4.0.44",
+		"generator":"Khronos glTF Blender I/O v3.6.28",
 		"version":"2.0"
 	},
 	"scene":0,
@@ -531,7 +531,8 @@
 					}
 				},
 				"uuid":"8caa54dd-f6ed-4e73-975c-3fb2c97cc894",
-				"assets reported":{}
+				"assets reported":{},
+				"CC3ImportProps":{}
 			},
 			"name":"Scene",
 			"nodes":[
@@ -546,7 +547,7 @@
 				"hubs_component_list":{}
 			},
 			"mesh":0,
-			"name":"NMS_Display_Box2_01",
+			"name":"NMS_Display_Box1_01",
 			"translation":[
 				0,
 				0.30000001192092896,
@@ -555,11 +556,11 @@
 		},
 		{
 			"extras":{
-				"xrengine.entity":"NMS_Display_Box2_01_Box_Collider",
+				"xrengine.entity":"NMS_Display_Box1_01_Box_Collider",
 				"xrengine.EE_collider.shape":"box"
 			},
 			"mesh":1,
-			"name":"NMS_Display_Box2_01_Box_Collider",
+			"name":"NMS_Display_Box1_01_Box_Collider",
 			"scale":[
 				1.0500001907348633,
 				0.4350000023841858,
@@ -576,7 +577,11 @@
 				0,
 				1
 			],
-			"name":"NMS_Display_Box2_01.001"
+			"extras":{
+				"xrengine.EE_rigidbody.type":"fixed",
+				"xrengine.entity":"NMS_KitPiece"
+			},
+			"name":"NMS_Display_Box1_01.001"
 		}
 	],
 	"materials":[
@@ -601,7 +606,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Cube.033",
+			"name":"Cube.005",
 			"primitives":[
 				{
 					"attributes":{
@@ -615,7 +620,7 @@
 			]
 		},
 		{
-			"name":"Cube.179",
+			"name":"Cube.170",
 			"primitives":[
 				{
 					"attributes":{
