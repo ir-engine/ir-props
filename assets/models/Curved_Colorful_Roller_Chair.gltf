@@ -3,6 +3,11 @@
 		"generator":"Khronos glTF Blender I/O v4.0.44",
 		"version":"2.0"
 	},
+	"extensionsUsed":[
+		"KHR_materials_transmission",
+		"KHR_materials_specular",
+		"KHR_materials_ior"
+	],
 	"scene":0,
 	"scenes":[
 		{
@@ -406,6 +411,7 @@
 			"extras":{
 				"hubs_component_list":{}
 			},
+			"mesh":0,
 			"name":"Curved_Colorful_Roller_Chair_mesh"
 		},
 		{
@@ -413,7 +419,7 @@
 				"xrengine.entity":"Curved_Colorful_Roller_Chair_mesh_Box_Collider",
 				"xrengine.EE_collider.shape":"box"
 			},
-			"mesh":0,
+			"mesh":1,
 			"name":"Curved_Colorful_Roller_Chair_mesh_Box_Collider",
 			"scale":[
 				0.6979134678840637,
@@ -435,12 +441,48 @@
 				"xrengine.entity":"Curved_Colorful_Roller_Chair",
 				"xrengine.EE_rigidbody.type":"fixed"
 			},
-			"name":"Curved_Colorful_Roller_Chair"
+			"name":"Curved_Colorful_Roller_Chair",
+			"translation":[
+				0,
+				0,
+				5
+			]
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"extensions":{
+				"KHR_materials_transmission":{
+					"transmissionFactor":0.186364084482193
+				},
+				"KHR_materials_specular":{
+					"specularFactor":0.26363635063171387
+				},
+				"KHR_materials_ior":{
+					"ior":1.5199999809265137
+				}
+			},
+			"extras":{
+				"hubs_component_list":{}
+			},
+			"name":"Curved_Colorful_Trimsheet",
+			"normalTexture":{
+				"index":0
+			},
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
+				"metallicRoughnessTexture":{
+					"index":2
+				}
+			}
 		}
 	],
 	"meshes":[
 		{
-			"name":"Cube.003",
+			"name":"Curved_Colorful_Roller_Chair",
 			"primitives":[
 				{
 					"attributes":{
@@ -448,14 +490,93 @@
 						"NORMAL":1,
 						"TEXCOORD_0":2
 					},
-					"indices":3
+					"indices":3,
+					"material":0
 				}
 			]
+		},
+		{
+			"name":"Cube.003",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":4,
+						"NORMAL":5,
+						"TEXCOORD_0":6
+					},
+					"indices":7
+				}
+			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Colorful_Curved_Trimsheet_Normal",
+			"uri":"textures/Colorful_Curved_Trimsheet_Normal.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Colorful_Curved_Trimsheet_Color",
+			"uri":"textures/Colorful_Curved_Trimsheet_Color.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness",
+			"uri":"textures/Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.png"
 		}
 	],
 	"accessors":[
 		{
 			"bufferView":0,
+			"componentType":5126,
+			"count":21447,
+			"max":[
+				0.7455005645751953,
+				2.0539000034332275,
+				0.7082500457763672
+			],
+			"min":[
+				-0.7437992095947266,
+				0,
+				-0.7082500457763672
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":1,
+			"componentType":5126,
+			"count":21447,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":2,
+			"componentType":5126,
+			"count":21447,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":3,
+			"componentType":5123,
+			"count":88758,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":4,
 			"componentType":5126,
 			"count":46,
 			"max":[
@@ -471,19 +592,19 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":1,
+			"bufferView":5,
 			"componentType":5126,
 			"count":46,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":2,
+			"bufferView":6,
 			"componentType":5126,
 			"count":46,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":3,
+			"bufferView":7,
 			"componentType":5123,
 			"count":84,
 			"type":"SCALAR"
@@ -492,32 +613,62 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":552,
+			"byteLength":257364,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
+			"byteLength":257364,
+			"byteOffset":257364,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":171576,
+			"byteOffset":514728,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":177516,
+			"byteOffset":686304,
+			"target":34963
+		},
+		{
+			"buffer":0,
 			"byteLength":552,
-			"byteOffset":552,
+			"byteOffset":863820,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":552,
+			"byteOffset":864372,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":368,
-			"byteOffset":1104,
+			"byteOffset":864924,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":168,
-			"byteOffset":1472,
+			"byteOffset":865292,
 			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":1640,
+			"byteLength":865460,
 			"uri":"Curved_Colorful_Roller_Chair.bin"
 		}
 	]

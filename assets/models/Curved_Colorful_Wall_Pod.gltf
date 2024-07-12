@@ -3,6 +3,11 @@
 		"generator":"Khronos glTF Blender I/O v4.0.44",
 		"version":"2.0"
 	},
+	"extensionsUsed":[
+		"KHR_materials_transmission",
+		"KHR_materials_specular",
+		"KHR_materials_ior"
+	],
 	"scene":0,
 	"scenes":[
 		{
@@ -406,6 +411,7 @@
 			"extras":{
 				"hubs_component_list":{}
 			},
+			"mesh":0,
 			"name":"Curved_Colorful_Wall_Pod_mesh"
 		},
 		{
@@ -413,7 +419,7 @@
 				"xrengine.entity":"Curved_Colorful_Wall_Pod_mesh_Box_Collider",
 				"xrengine.EE_collider.shape":"box"
 			},
-			"mesh":0,
+			"mesh":1,
 			"name":"Curved_Colorful_Wall_Pod_mesh_Box_Collider",
 			"scale":[
 				1.2429754734039307,
@@ -435,12 +441,48 @@
 				"xrengine.entity":"Curved_Colorful_Wall_Pod",
 				"xrengine.EE_rigidbody.type":"fixed"
 			},
-			"name":"Curved_Colorful_Wall_Pod"
+			"name":"Curved_Colorful_Wall_Pod",
+			"translation":[
+				0,
+				0,
+				-3
+			]
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"extensions":{
+				"KHR_materials_transmission":{
+					"transmissionFactor":0.186364084482193
+				},
+				"KHR_materials_specular":{
+					"specularFactor":0.26363635063171387
+				},
+				"KHR_materials_ior":{
+					"ior":1.5199999809265137
+				}
+			},
+			"extras":{
+				"hubs_component_list":{}
+			},
+			"name":"Curved_Colorful_Trimsheet",
+			"normalTexture":{
+				"index":0
+			},
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
+				"metallicRoughnessTexture":{
+					"index":2
+				}
+			}
 		}
 	],
 	"meshes":[
 		{
-			"name":"Cube",
+			"name":"Curved_Colorful_Wall_Pod",
 			"primitives":[
 				{
 					"attributes":{
@@ -448,14 +490,93 @@
 						"NORMAL":1,
 						"TEXCOORD_0":2
 					},
-					"indices":3
+					"indices":3,
+					"material":0
 				}
 			]
+		},
+		{
+			"name":"Cube",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":4,
+						"NORMAL":5,
+						"TEXCOORD_0":6
+					},
+					"indices":7
+				}
+			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Colorful_Curved_Trimsheet_Normal",
+			"uri":"textures/Colorful_Curved_Trimsheet_Normal.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Colorful_Curved_Trimsheet_Color",
+			"uri":"textures/Colorful_Curved_Trimsheet_Color.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness",
+			"uri":"textures/Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.png"
 		}
 	],
 	"accessors":[
 		{
 			"bufferView":0,
+			"componentType":5126,
+			"count":19645,
+			"max":[
+				1.2434005737304688,
+				4.442999839782715,
+				0.5018496513366699
+			],
+			"min":[
+				-1.2433996200561523,
+				0,
+				-0.5018503665924072
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":1,
+			"componentType":5126,
+			"count":19645,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":2,
+			"componentType":5126,
+			"count":19645,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":3,
+			"componentType":5123,
+			"count":90351,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":4,
 			"componentType":5126,
 			"count":112,
 			"max":[
@@ -471,19 +592,19 @@
 			"type":"VEC3"
 		},
 		{
-			"bufferView":1,
+			"bufferView":5,
 			"componentType":5126,
 			"count":112,
 			"type":"VEC3"
 		},
 		{
-			"bufferView":2,
+			"bufferView":6,
 			"componentType":5126,
 			"count":112,
 			"type":"VEC2"
 		},
 		{
-			"bufferView":3,
+			"bufferView":7,
 			"componentType":5123,
 			"count":288,
 			"type":"SCALAR"
@@ -492,32 +613,62 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":1344,
+			"byteLength":235740,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
+			"byteLength":235740,
+			"byteOffset":235740,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":157160,
+			"byteOffset":471480,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":180702,
+			"byteOffset":628640,
+			"target":34963
+		},
+		{
+			"buffer":0,
 			"byteLength":1344,
-			"byteOffset":1344,
+			"byteOffset":809344,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":1344,
+			"byteOffset":810688,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":896,
-			"byteOffset":2688,
+			"byteOffset":812032,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":576,
-			"byteOffset":3584,
+			"byteOffset":812928,
 			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":4160,
+			"byteLength":813504,
 			"uri":"Curved_Colorful_Wall_Pod.bin"
 		}
 	]
