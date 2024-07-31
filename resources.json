@@ -1820,7 +1820,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Colorful_Curved_Trimsheet_Color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1829,7 +1829,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1838,7 +1838,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Colorful_Curved_Trimsheet_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1847,7 +1847,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/computer_trimsheet_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1856,7 +1856,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/computer_trimsheet_Metallic-computer_trimsheet_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1865,7 +1865,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/computer_trimsheet_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1874,7 +1874,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_CC02_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1883,7 +1883,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_CC02_Emission.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1892,7 +1892,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_CC02_Metallic_png-Furniture_CC02_Roughness_png.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1901,7 +1901,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_CC02_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1910,7 +1910,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_cc03_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1919,7 +1919,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1928,7 +1928,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_cc03_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1937,7 +1937,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc05_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1946,7 +1946,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc05_Emission.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1955,7 +1955,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc05_Metallic-furniture_cc05_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1964,7 +1964,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc05_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1973,7 +1973,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc06_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1982,7 +1982,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc06_Emission.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1991,7 +1991,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc06_Metallic-furniture_cc06_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2000,7 +2000,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/furniture_cc06_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2009,7 +2009,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_pack_1_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2018,7 +2018,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_pack_1_Metallic-Furniture_pack_1_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2027,7 +2027,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Furniture_pack_1_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2036,7 +2036,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Natural_store_trimsheet_1_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2045,7 +2045,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Natural_store_trimsheet_1_Metallic_png-Natural_store_trimsheet_1_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2054,7 +2054,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Natural_store_trimsheet_1_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2063,7 +2063,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Office_Furniture_Trimsheet_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2072,7 +2072,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Office_Furniture_Trimsheet_Metallic-Office_Furniture_Trimsheet_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2081,7 +2081,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Office_Furniture_Trimsheet_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2090,7 +2090,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2099,7 +2099,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2108,7 +2108,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
