@@ -2278,13 +2278,5 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-1.001.gltfhash4ac485-thumbnail.png",
     "thumbnailMode": "automatic"
-  },
-  "public/scenes/New-Scene.gltf": {
-    "type": "scene",
-    "tags": [
-      "Model"
-    ],
-    "dependencies": [],
-    "thumbnailKey": "projects/default-project/public/scenes/default.thumbnail.jpg"
   }
 }
