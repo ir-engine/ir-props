@@ -1,0 +1,2290 @@
+{
+  "assets/models/Architectural_Model_Lamp_Legs.002.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Architectural_Model_Lamp_Legs.002.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc01",
+      "prop",
+      "lamp"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsArchitectural_Model_Lamp_Legs.002.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/BasicSeat.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/BasicSeat.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsBasicSeat.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Bed_plush.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Bed_plush.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc01",
+      "prop",
+      "furniture",
+      "bed"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsBed_plush.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Bigrug.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Bigrug.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "rug"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsBigrug.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookcase_circle.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookcase_circle.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase_circle.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookcase.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookcase.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookcase.003.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookcase.003.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.003.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookcase.004.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookcase.004.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.004.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookcase.006.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookcase.006.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.006.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookcase.008.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookcase.008.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.008.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/bookshelf_tall.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/bookshelf_tall.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookshelf_tall.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/California_office_chair.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/California_office_chair.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc01",
+      "prop",
+      "furniture",
+      "chair",
+      "office"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCalifornia_office_chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Camille_Navy_Velvet_Dining_Chair007.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Camille_Navy_Velvet_Dining_Chair007.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc01",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCamille_Navy_Velvet_Dining_Chair007.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Chair_jungle.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Chair_jungle.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsChair_jungle.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Circle_chair.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Circle_chair.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCircle_chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/cirlcelamp.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/cirlcelamp.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "lamp"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscirlcelamp.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Coffee_table_-_2.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Coffee_table_-_2.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table_-_2.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Coffee_table_-_3.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Coffee_table_-_3.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table_-_3.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Coffee_table_-_4.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Coffee_table_-_4.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table_-_4.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Coffee_Table_-1.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Coffee_Table_-1.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_Table_-1.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/coffee_table_cubes.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/coffee_table_cubes.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscoffee_table_cubes.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/coffee_table_flat.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/coffee_table_flat.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscoffee_table_flat.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Coffee_table.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Coffee_table.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Couch_padded.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Couch_padded.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "furniture",
+      "sofa"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCouch_padded.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/cubeLamp.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/cubeLamp.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "lamp"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscubeLamp.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Chair.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Chair.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Chair.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Chair.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Chair.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Desk.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Desk.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Desk.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Roller_Chair.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Roller_Chair.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Roller_Chair.gltfhash84b35b-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Rug.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Rug.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "rug"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Rug.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Soft_Chair_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Soft_Chair_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Soft_Chair_01.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Soft_Chair_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Soft_Chair_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Soft_Chair_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Swoop_Desk.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Swoop_Desk.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "desk",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Swoop_Desk.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Table.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Table.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "table",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Table.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Curved_Colorful_Wall_Pod.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Curved_Colorful_Wall_Pod.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "colorful_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Wall_Pod.gltfhashb67e35-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/curvy_table.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/curvy_table.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscurvy_table.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Dining_table.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Dining_table.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsDining_table.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Egg_chair_half.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Egg_chair_half.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsEgg_chair_half.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Egg_chair.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Egg_chair.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsEgg_chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Floria_Velvet_CHair_001.002.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Floria_Velvet_CHair_001.002.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsFloria_Velvet_CHair_001.002.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/folded_shelf.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/folded_shelf.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "bookshelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsfolded_shelf.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/gold_sculpture.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/gold_sculpture.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "sculpture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsgold_sculpture.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/large_circular_plinth.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/large_circular_plinth.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "plinth"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelslarge_circular_plinth.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/linelamp.002.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/linelamp.002.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "ceiling lamp",
+      "lamp"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelslinelamp.002.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Makeup_console.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Makeup_console.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMakeup_console.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Midcentury_Chair.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Midcentury_Chair.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMidcentury_Chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/midCentury_console.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/midCentury_console.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsmidCentury_console.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Midcentury_Footstool.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Midcentury_Footstool.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMidcentury_Footstool.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Midcentury_rug.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Midcentury_rug.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "rug"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMidcentury_rug.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/mirabel_98_pewter.002.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/mirabel_98_pewter.002.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc01",
+      "prop",
+      "furniture",
+      "sofa"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsmirabel_98_pewter.002.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Computer_1.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Computer_1.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Computer_1.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Computer_2.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Computer_2.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Computer_2.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Conference_table_modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Conference_table_modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "table",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Conference_table_modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Cubicle_2x2_modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Cubicle_2x2_modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "cubicle"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Cubicle_2x2_modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Cubicle_6x2_modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Cubicle_6x2_modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "cubicle"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Cubicle_6x2_modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Desk_1_Modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Desk_1_Modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "desk",
+      "table",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_1_Modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Desk_2_Modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Desk_2_Modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "desk",
+      "table",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_2_Modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Desk_chair_modern_black.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Desk_chair_modern_black.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_chair_modern_black.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Desk_chair_modern_orange.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Desk_chair_modern_orange.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_chair_modern_orange.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Desk_chair_modern_white.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Desk_chair_modern_white.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_chair_modern_white.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_guest_chair_modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_guest_chair_modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_guest_chair_modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_iMac.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_iMac.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_iMac.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_keyboard.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_keyboard.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_keyboard.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Leg_chair_modern_black.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Leg_chair_modern_black.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Leg_chair_modern_black.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Leg_chair_modern_orange.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Leg_chair_modern_orange.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Leg_chair_modern_orange.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Leg_chair_modern_white.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Leg_chair_modern_white.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Leg_chair_modern_white.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Light_fixture_1.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Light_fixture_1.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "light"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Light_fixture_1.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Light_fixture_2.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Light_fixture_2.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "light"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Light_fixture_2.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Monitor.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Monitor.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Monitor.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_mouse.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_mouse.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_mouse.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Server_farm_modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Server_farm_modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "computer"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Server_farm_modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Shelves_2x3_modern.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Shelves_2x3_modern.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "shelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Shelves_2x3_modern.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Task_chair_modern_black.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Task_chair_modern_black.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Task_chair_modern_black.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Task_chair_modern_orange.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Task_chair_modern_orange.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Task_chair_modern_orange.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Office_-_Task_chair_modern_white.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Office_-_Task_chair_modern_white.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "modern_office",
+      "prop",
+      "display",
+      "office",
+      "chair",
+      "furniture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Task_chair_modern_white.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Pillowpile.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Pillowpile.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "pillow"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsPillowpile.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Pouf_chair.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Pouf_chair.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsPouf_chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Round_Table.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Round_Table.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc01",
+      "prop",
+      "furniture",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsRound_Table.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/rounded_platform.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/rounded_platform.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "platform"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsrounded_platform.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Side_table_-_1.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Side_table_-_1.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsSide_table_-_1.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Side_table_-_2.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Side_table_-_2.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "table"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsSide_table_-_2.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Simple_chair.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Simple_chair.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsSimple_chair.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/smallrug.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/smallrug.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      " rug"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelssmallrug.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/squarelamp.002.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/squarelamp.002.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc02",
+      "prop",
+      "furniture",
+      "ceiling lamp",
+      "lamp"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelssquarelamp.002.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Standing_shelves_-_1.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Standing_shelves_-_1.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "shelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStanding_shelves_-_1.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Standing_shelves_-_2.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Standing_shelves_-_2.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "shelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStanding_shelves_-_2.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Storage_box.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Storage_box.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "shelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStorage_box.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Colorful_Curved_Trimsheet_Color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesColorful_Curved_Trimsheet_Color.pnghash8e8332-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesColorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.pnghash2c400e-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Colorful_Curved_Trimsheet_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesColorful_Curved_Trimsheet_Normal.pnghashe6757e-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/computer_trimsheet_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturescomputer_trimsheet_Base_color.pnghash142063-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/computer_trimsheet_Metallic-computer_trimsheet_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturescomputer_trimsheet_Metallic-computer_trimsheet_Roughness.pnghash32c1de-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/computer_trimsheet_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturescomputer_trimsheet_Normal_OpenGL.pnghash74e658-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_CC02_BaseColor.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_BaseColor.pnghash750846-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_CC02_Emission.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_Emission.pnghash7db2cc-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_CC02_Metallic_png-Furniture_CC02_Roughness_png.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_Metallic_png-Furniture_CC02_Roughness_png.pnghashf1124c-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_CC02_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_Normal.pnghash788193-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_cc03_BaseColor.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_cc03_BaseColor.pnghash90714c-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.pnghash43b386-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_cc03_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_cc03_Normal.pnghash1dc18d-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc05_BaseColor.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_BaseColor.pnghashe285fd-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc05_Emission.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_Emission.pnghash02b59b-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc05_Metallic-furniture_cc05_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_Metallic-furniture_cc05_Roughness.pnghashff67c5-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc05_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_Normal.pnghashbd2514-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc06_BaseColor.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_BaseColor.pnghash236e9b-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc06_Emission.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_Emission.pnghashc56828-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc06_Metallic-furniture_cc06_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_Metallic-furniture_cc06_Roughness.pnghashda42d0-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/furniture_cc06_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_Normal.pnghashf795cc-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_pack_1_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_pack_1_Base_color.pnghash853e68-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_pack_1_Metallic-Furniture_pack_1_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_pack_1_Metallic-Furniture_pack_1_Roughness.pnghash283736-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Furniture_pack_1_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_pack_1_Normal_OpenGL.pnghashca70ff-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Natural_store_trimsheet_1_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesNatural_store_trimsheet_1_Base_color.pnghash62b253-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Natural_store_trimsheet_1_Metallic_png-Natural_store_trimsheet_1_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesNatural_store_trimsheet_1_Metallic_png-Natural_store_trimsheet_1_Roughness.pnghash2e203c-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Natural_store_trimsheet_1_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesNatural_store_trimsheet_1_Normal_OpenGL.pnghash89a7ea-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Office_Furniture_Trimsheet_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesOffice_Furniture_Trimsheet_Base_color.pnghash38c590-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Office_Furniture_Trimsheet_Metallic-Office_Furniture_Trimsheet_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesOffice_Furniture_Trimsheet_Metallic-Office_Furniture_Trimsheet_Roughness.pnghash809590-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Office_Furniture_Trimsheet_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesOffice_Furniture_Trimsheet_Normal_OpenGL.pnghash1b75e8-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Wood_Furniture_modular_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesWood_Furniture_modular_Base_color.pnghash32ef5a-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesWood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.pnghash6cf6ee-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Wood_Furniture_modular_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/TorusKnotLight.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/TorusKnotLight.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc06",
+      "prop",
+      "lamp",
+      "ceiling lamp"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsTorusKnotLight.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/triangle_plinths.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/triangle_plinths.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "plinth"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstriangle_plinths.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Vase_1.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Vase_1.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "sculpture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVase_1.001.gltfhash97ae89-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Vase_2_low.002.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Vase_2_low.002.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc05",
+      "prop",
+      "sculpture"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVase_2_low.002.gltfhash268514-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Velvet_armchair.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Velvet_armchair.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "chair"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVelvet_armchair.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Velvet_sofa.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Velvet_sofa.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "furniture_cc03",
+      "prop",
+      "furniture",
+      "sofa"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVelvet_sofa.gltfhash64c337-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Wall_shelves_-_2.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Wall_shelves_-_2.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "shelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-_2.001.gltfhash8cd9db-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Wall_shelves_-1.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/Wall_shelves_-1.001.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model",
+      "simple_modern",
+      "prop",
+      "display",
+      "showcase",
+      "ecommerce",
+      "shelf"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-1.001.gltfhash4ac485-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "public/scenes/New-Scene.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/default-project/public/scenes/default.thumbnail.jpg"
+  }
+}
