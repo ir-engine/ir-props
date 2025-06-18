@@ -1,655 +1,748 @@
 {
-	"asset":{
-		"generator":"Khronos glTF Blender I/O v4.0.44",
-		"version":"2.0"
-	},
-	"scene":0,
-	"scenes":[
-		{
-			"extras":{
-				"sun_pos_properties":{
-					"show_surface":0,
-					"show_analemmas":0,
-					"show_north":0,
-					"latitude":0.0,
-					"day_of_year":155,
-					"sun_object":{},
-					"object_collection":{}
-				},
-				"true_sky":{
-					"presets":{
-						"full_sky_preset":{
-							"presets":[
-								{
-									"name":"Default",
-									"display_name":"Default"
-								},
-								{
-									"name":"Morning",
-									"display_name":"Morning"
-								},
-								{
-									"name":"Mid-Morning",
-									"display_name":"Mid-Morning"
-								},
-								{
-									"name":"Midday",
-									"display_name":"Midday"
-								},
-								{
-									"name":"Azure Afternoon",
-									"display_name":"Azure Afternoon"
-								},
-								{
-									"name":"Dusty Afternoon",
-									"display_name":"Dusty Afternoon"
-								},
-								{
-									"name":"Dusk",
-									"display_name":"Dusk"
-								},
-								{
-									"name":"Dusty Dusk",
-									"display_name":"Dusty Dusk"
-								},
-								{
-									"name":"Alien Morning",
-									"display_name":"Alien Morning"
-								},
-								{
-									"name":"Alien Gas Desert",
-									"display_name":"Alien Gas Desert"
-								},
-								{
-									"name":"Alien Day",
-									"display_name":"Alien Day"
-								},
-								{
-									"name":"Mars",
-									"display_name":"Mars"
-								}
-							]
-						},
-						"time_preset":{
-							"presets":[
-								{
-									"name":"Sunrise",
-									"display_name":"Sunrise"
-								},
-								{
-									"name":"Morning - Golden Hour End",
-									"display_name":"Morning - Golden Hour End"
-								},
-								{
-									"name":"Mid-Morning",
-									"display_name":"Mid-Morning"
-								},
-								{
-									"name":"Noon",
-									"display_name":"Noon"
-								},
-								{
-									"name":"Afternoon",
-									"display_name":"Afternoon"
-								},
-								{
-									"name":"Evening - Golden Hour Start",
-									"display_name":"Evening - Golden Hour Start"
-								},
-								{
-									"name":"Sunset",
-									"display_name":"Sunset"
-								}
-							]
-						},
-						"sol_hsv_preset":{
-							"presets":[
-								{
-									"name":"Base",
-									"display_name":"Base"
-								},
-								{
-									"name":"Test",
-									"display_name":"Mars"
-								},
-								{
-									"name":"Venus",
-									"display_name":"Venus"
-								},
-								{
-									"name":"Saturated",
-									"display_name":"Saturated"
-								},
-								{
-									"name":"Desaturated",
-									"display_name":"Desaturated"
-								}
-							]
-						},
-						"atmosphere_preset":{
-							"presets":[
-								{
-									"name":"Clear",
-									"display_name":"Clear"
-								},
-								{
-									"name":"Dusty",
-									"display_name":"Dusty"
-								}
-							]
-						},
-						"haze_preset":{
-							"presets":[
-								{
-									"name":"Clear",
-									"display_name":"Clear"
-								},
-								{
-									"name":"Polluted",
-									"display_name":"Polluted"
-								},
-								{
-									"name":"Drab",
-									"display_name":"Drab"
-								},
-								{
-									"name":"Other",
-									"display_name":"Mars"
-								},
-								{
-									"name":"Green",
-									"display_name":"Green"
-								}
-							]
-						},
-						"fog_preset":{
-							"presets":[
-								{
-									"name":"Fog Clear",
-									"display_name":"Fog Clear"
-								},
-								{
-									"name":"Fog Dense",
-									"display_name":"Fog Dense"
-								},
-								{
-									"name":"",
-									"display_name":"Fog Blanket"
-								},
-								{
-									"name":"Fog Stormy",
-									"display_name":"Fog Stormy"
-								},
-								{
-									"name":"Fog (Sandy)",
-									"display_name":"Fog (Sandy/Dust)"
-								}
-							]
-						},
-						"night_sky_preset":{
-							"presets":[
-								{
-									"name":"Test",
-									"display_name":"Clear Night"
-								},
-								{
-									"name":"Clear Night w/o Moon",
-									"display_name":"Clear Night w/o Moon"
-								},
-								{
-									"name":"Test 2",
-									"display_name":"Hazy Night"
-								},
-								{
-									"name":"Hazy Night w/o Moon",
-									"display_name":"Hazy Night w/o Moon"
-								}
-							]
-						},
-						"night_hdris_preset":{
-							"presets":[
-								{
-									"name":"Earth Night",
-									"display_name":"Earth Night"
-								},
-								{
-									"name":"Interstellar Nursery",
-									"display_name":"Interstellar Nursery"
-								},
-								{
-									"name":"Black Hole",
-									"display_name":"Black Hole"
-								},
-								{
-									"name":"Blue Nebula",
-									"display_name":"Blue Nebula"
-								},
-								{
-									"name":"Red Nebula",
-									"display_name":"Blue Clouds"
-								},
-								{
-									"name":"Red Gas",
-									"display_name":"Red Gas"
-								},
-								{
-									"name":"Great Portal",
-									"display_name":"Great Portal"
-								},
-								{
-									"name":"Orange Nebula",
-									"display_name":"Orange Nebula"
-								}
-							]
-						},
-						"moon_preset":{
-							"presets":[
-								{
-									"name":"Base",
-									"display_name":"Earth Moon"
-								},
-								{
-									"name":"Super Moon",
-									"display_name":"Super Moon"
-								}
-							]
-						},
-						"moon_phase_preset":{
-							"presets":[
-								{
-									"name":"Waxing Crescent",
-									"display_name":"Waxing Crescent"
-								},
-								{
-									"name":"First Quarter",
-									"display_name":"First Quarter"
-								},
-								{
-									"name":"Waxing Gibbous",
-									"display_name":"Waxing Gibbous"
-								},
-								{
-									"name":"Full",
-									"display_name":"Full"
-								},
-								{
-									"name":"Waning Gibbous",
-									"display_name":"Waning Gibbous"
-								},
-								{
-									"name":"Third Quarter",
-									"display_name":"Third Quarter"
-								},
-								{
-									"name":"Waning Crescent",
-									"display_name":"Waning Crescent"
-								}
-							]
-						},
-						"nebula_preset":{
-							"presets":[
-								{
-									"name":"Base",
-									"display_name":"Base"
-								},
-								{
-									"name":"Pale Wisp",
-									"display_name":"Pale Wisp"
-								},
-								{
-									"name":"Golden Flares",
-									"display_name":"Golden Flares"
-								}
-							]
-						},
-						"stars_preset":{
-							"presets":[
-								{
-									"name":"Base",
-									"display_name":"Base"
-								},
-								{
-									"name":"Deep Space",
-									"display_name":"Deep Space"
-								},
-								{
-									"name":"Starry Night",
-									"display_name":"Starry Night"
-								}
-							]
-						},
-						"night_clarity_preset":{
-							"presets":[
-								{
-									"name":"Base",
-									"display_name":"Base"
-								},
-								{
-									"name":"Intense",
-									"display_name":"City Lights"
-								}
-							]
-						},
-						"cloud_preset":{
-							"presets":[
-								{
-									"name":"tVFX_Clouds-Stratocumulus",
-									"display_name":"Stratocumulus"
-								},
-								{
-									"name":"tVFX_Clouds-Cumulus Mediocris",
-									"display_name":"Cumulus Mediocris"
-								},
-								{
-									"name":"tVFX_Clouds-Cumulonimbus",
-									"display_name":"Cumulonimbus"
-								},
-								{
-									"name":"tVFX_Clouds-Cirrus",
-									"display_name":"Cirrus"
-								},
-								{
-									"name":"tVFX_Clouds-Altostratus Translucidus",
-									"display_name":"Altostratus Translucidus"
-								},
-								{
-									"name":"tVFX_Clouds-Altostratus Opacus",
-									"display_name":"Altostratus Opacus"
-								},
-								{
-									"name":"tVFX_Clouds-Altocumulus",
-									"display_name":"Altocumulus"
-								}
-							]
-						}
-					},
-					"performance":{
-						"performance_items":[
-							{
-								"name":"Testing"
-							},
-							{
-								"name":"Viewport Render Region"
-							},
-							{
-								"name":"Pixel Size"
-							},
-							{
-								"name":"Tile Size"
-							},
-							{
-								"name":"True-Speed"
-							}
-						]
-					}
-				},
-				"srr_settings":{
-					"status":{
-						"is_rendering":0,
-						"should_stop":0
-					}
-				},
-				"puresky_properties":{
-					"int_flag_updt_camera":1
-				},
-				"uuid":"9f6dc018-979e-409a-a9f7-e580055f4fc9",
-				"assets reported":{},
-				"sna_icongallery":8
-			},
-			"name":"Scene",
-			"nodes":[
-				2
-			]
-		}
-	],
-	"nodes":[
-		{
-			"extras":{
-				"xrengine.entity":"Egg_chair_Box_Collider",
-				"xrengine.EE_collider.shape":"mesh"
-			},
-			"mesh":0,
-			"name":"Egg_chair_Box_Collider",
-			"rotation":[
-				-0.5,
-				0.5,
-				-0.5,
-				0.4999999701976776
-			],
-			"scale":[
-				0.9771260619163513,
-				0.41998055577278137,
-				0.505580723285675
-			],
-			"translation":[
-				0.001678466796875,
-				0.9649414420127869,
-				0.017086567357182503
-			]
-		},
-		{
-			"mesh":1,
-			"name":"Egg_chair"
-		},
-		{
-			"children":[
-				0,
-				1
-			],
-			"extras":{
-				"xrengine.entity":"Plane.002",
-				"xrengine.EE_rigidbody.type":"fixed"
-			},
-			"name":"Egg_chair.001"
-		}
-	],
-	"materials":[
-		{
-			"doubleSided":true,
-			"name":"Furniture_cc03",
-			"normalTexture":{
-				"index":0
-			},
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":1
-				},
-				"metallicRoughnessTexture":{
-					"index":2
-				}
-			}
-		}
-	],
-	"meshes":[
-		{
-			"name":"Cube.006",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":0,
-						"NORMAL":1,
-						"TEXCOORD_0":2
-					},
-					"indices":3
-				}
-			]
-		},
-		{
-			"name":"Plane.024",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":4,
-						"NORMAL":5,
-						"TEXCOORD_0":6
-					},
-					"indices":7,
-					"material":0
-				}
-			]
-		}
-	],
-	"textures":[
-		{
-			"sampler":0,
-			"source":0
-		},
-		{
-			"sampler":0,
-			"source":1
-		},
-		{
-			"sampler":0,
-			"source":2
-		}
-	],
-	"images":[
-		{
-			"mimeType":"image/png",
-			"name":"Furniture_cc03_Normal",
-			"uri":"textures/Furniture_cc03_Normal.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"Furniture_cc03_BaseColor",
-			"uri":"textures/Furniture_cc03_BaseColor.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"Furniture_cc03_Metallic.png-Furniture_cc03_Roughness.png",
-			"uri":"textures/Furniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.png"
-		}
-	],
-	"accessors":[
-		{
-			"bufferView":0,
-			"componentType":5126,
-			"count":151,
-			"max":[
-				1,
-				1,
-				1
-			],
-			"min":[
-				-1,
-				-1,
-				-1
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":1,
-			"componentType":5126,
-			"count":151,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":2,
-			"componentType":5126,
-			"count":151,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":3,
-			"componentType":5123,
-			"count":288,
-			"type":"SCALAR"
-		},
-		{
-			"bufferView":4,
-			"componentType":5126,
-			"count":3439,
-			"max":[
-				0.5052888989448547,
-				1.9486291408538818,
-				0.39175087213516235
-			],
-			"min":[
-				-0.5052888989448547,
-				1.1920928955078125e-07,
-				-0.3917510211467743
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":5,
-			"componentType":5126,
-			"count":3439,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":6,
-			"componentType":5126,
-			"count":3439,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":7,
-			"componentType":5123,
-			"count":17742,
-			"type":"SCALAR"
-		}
-	],
-	"bufferViews":[
-		{
-			"buffer":0,
-			"byteLength":1812,
-			"byteOffset":0,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":1812,
-			"byteOffset":1812,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":1208,
-			"byteOffset":3624,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":576,
-			"byteOffset":4832,
-			"target":34963
-		},
-		{
-			"buffer":0,
-			"byteLength":41268,
-			"byteOffset":5408,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":41268,
-			"byteOffset":46676,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":27512,
-			"byteOffset":87944,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":35484,
-			"byteOffset":115456,
-			"target":34963
-		}
-	],
-	"samplers":[
-		{
-			"magFilter":9729,
-			"minFilter":9987
-		}
-	],
-	"buffers":[
-		{
-			"byteLength":150940,
-			"uri":"Egg_chair.001.bin"
-		}
-	]
+  "asset": {
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
+  },
+  "scenes": [
+    {
+      "name": "Egg_chair2",
+      "nodes": [
+        2
+      ],
+      "extras": {
+        "src": "__$project$__/ir-engine/ir-props/assets/models/Egg_chair.001.gltf?hash=686f7e"
+      }
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "matrix": [
+        -2.912062591065022e-8,
+        -0.9771260473560388,
+        1.4560313714704585e-8,
+        0,
+        -1.8774594019437435e-8,
+        -1.251639601295829e-8,
+        -0.4199805495145832,
+        0,
+        0.505580715751935,
+        -7.5337401348356e-9,
+        -3.013495952898918e-8,
+        0,
+        0.001678466796875,
+        0.9649414420127869,
+        0.017086567357182503,
+        1
+      ],
+      "name": "Egg_chair_Box_Collider",
+      "mesh": 0,
+      "extensions": {
+        "EE_uuid": "1ac8d356-ab2f-47bd-a46b-d05925e38e77",
+        "EE_collider": {
+          "shape": "mesh",
+          "mass": 1,
+          "massCenter": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "friction": 0.5,
+          "restitution": 0.5,
+          "collisionLayer": 1,
+          "collisionMask": 7
+        }
+      }
+    },
+    {
+      "name": "Egg_chair",
+      "mesh": 1,
+      "extensions": {
+        "EE_uuid": "e0c84880-ee9e-46cb-ac29-b49dcbda8952",
+        "EE_visible": true,
+        "EE_shadow": {
+          "cast": true,
+          "receive": false
+        }
+      }
+    },
+    {
+      "name": "Plane.002",
+      "children": [
+        0,
+        1
+      ],
+      "extensions": {
+        "EE_uuid": "77000f00-98af-49e1-b633-a85a13f21bb1",
+        "EE_rigidbody": {
+          "type": "fixed",
+          "ccd": false,
+          "allowRolling": true,
+          "enabledRotations": [
+            true,
+            true,
+            true
+          ],
+          "canSleep": true,
+          "gravityScale": 1
+        },
+        "EE_visible": {}
+      }
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1812,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 1,
+      "byteOffset": 0,
+      "byteLength": 1812,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 2,
+      "byteOffset": 0,
+      "byteLength": 1208,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 3,
+      "byteOffset": 0,
+      "byteLength": 1152,
+      "target": 34963
+    },
+    {
+      "buffer": 4,
+      "byteOffset": 0,
+      "byteLength": 41268,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 5,
+      "byteOffset": 0,
+      "byteLength": 41268,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 6,
+      "byteOffset": 0,
+      "byteLength": 27512,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 7,
+      "byteOffset": 0,
+      "byteLength": 70968,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "name": "a7fe96b38d11014768a3c38e743374342e253fa5bb014f27b0ee1c21393b052c",
+      "byteLength": 1812,
+      "uri": "model-resources/Egg_chair/buffers/a7fe96b38d11014768a3c38e743374342e253fa5bb014f27b0ee1c21393b052c.bin"
+    },
+    {
+      "name": "e28ef6d1c286c8dad25055fff7b1b74f68c5a5be3ba9c76127f09c3149fba8ef",
+      "byteLength": 1812,
+      "uri": "model-resources/Egg_chair/buffers/e28ef6d1c286c8dad25055fff7b1b74f68c5a5be3ba9c76127f09c3149fba8ef.bin"
+    },
+    {
+      "name": "b185e9efd6d940f04ae53b173b95b0c485721194472a7725d089d227d6065d78",
+      "byteLength": 1208,
+      "uri": "model-resources/Egg_chair/buffers/b185e9efd6d940f04ae53b173b95b0c485721194472a7725d089d227d6065d78.bin"
+    },
+    {
+      "name": "40910a3cf4026d764463174cd07034f61554e26c23483e4dc698a3a839c001ec",
+      "byteLength": 1152,
+      "uri": "model-resources/Egg_chair/buffers/40910a3cf4026d764463174cd07034f61554e26c23483e4dc698a3a839c001ec.bin"
+    },
+    {
+      "name": "a17b4fc337e433e354de9cd463645d940c1b7eceed03c41cd73f91e46ec36df5",
+      "byteLength": 41268,
+      "uri": "model-resources/Egg_chair/buffers/a17b4fc337e433e354de9cd463645d940c1b7eceed03c41cd73f91e46ec36df5.bin"
+    },
+    {
+      "name": "70e7dc0c0c1f6745d22a0e601abed2202c3a9b1c9490a6c8ee79db0035757103",
+      "byteLength": 41268,
+      "uri": "model-resources/Egg_chair/buffers/70e7dc0c0c1f6745d22a0e601abed2202c3a9b1c9490a6c8ee79db0035757103.bin"
+    },
+    {
+      "name": "b5c650d8b28a39a81c61644cd4011508738c838afe921cc3b67aa21464c2dd7d",
+      "byteLength": 27512,
+      "uri": "model-resources/Egg_chair/buffers/b5c650d8b28a39a81c61644cd4011508738c838afe921cc3b67aa21464c2dd7d.bin"
+    },
+    {
+      "name": "208e0bf817bf7576e72321cfce1334fb0679b9276409215ea1bf8cbe377ea75e",
+      "byteLength": 70968,
+      "uri": "model-resources/Egg_chair/buffers/208e0bf817bf7576e72321cfce1334fb0679b9276409215ea1bf8cbe377ea75e.bin"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 151,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 151,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 151,
+      "max": [
+        0.8131788969039917,
+        1
+      ],
+      "min": [
+        0.125,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 288,
+      "max": [
+        150
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3439,
+      "max": [
+        0.5052888989448547,
+        1.9486291408538818,
+        0.39175087213516235
+      ],
+      "min": [
+        -0.5052888989448547,
+        1.1920928955078125e-7,
+        -0.3917510211467743
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3439,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 3439,
+      "max": [
+        0.9643437266349792,
+        0.9988362789154053
+      ],
+      "min": [
+        0.0011994704836979508,
+        0.010526835918426514
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 17742,
+      "max": [
+        3438
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "EE_material": {
+          "uuid": "9fe32371-711b-4ffe-95ed-eb056af4face",
+          "name": "MeshStandardMaterial",
+          "prototype": "MeshStandardMaterial",
+          "plugins": [],
+          "args": {
+            "alphaTest": {
+              "type": "float",
+              "contents": 0
+            },
+            "alphaMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "map": {
+              "type": "texture",
+              "contents": null
+            },
+            "color": {
+              "type": "color",
+              "contents": 16777215
+            },
+            "opacity": {
+              "type": "float",
+              "contents": 1
+            },
+            "blending": {
+              "type": "select",
+              "contents": 1
+            },
+            "depthTest": {
+              "type": "boolean",
+              "contents": true
+            },
+            "depthWrite": {
+              "type": "boolean",
+              "contents": true
+            },
+            "side": {
+              "type": "select",
+              "contents": 0
+            },
+            "toneMapped": {
+              "type": "boolean",
+              "contents": true
+            },
+            "transparent": {
+              "type": "boolean",
+              "contents": false
+            },
+            "vertexColors": {
+              "type": "boolean",
+              "contents": false
+            },
+            "emissive": {
+              "type": "color",
+              "contents": 0
+            },
+            "emissiveMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "emissiveIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "combine": {
+              "type": "select"
+            },
+            "envMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "envMapIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "reflectivity": {
+              "type": "float"
+            },
+            "refractionRatio": {
+              "type": "float"
+            },
+            "normalMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "normalMapType": {
+              "type": "select",
+              "contents": 0
+            },
+            "normalScale": {
+              "type": "vec2",
+              "contents": {
+                "x": 1,
+                "y": -1
+              }
+            },
+            "bumpMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "bumpScale": {
+              "type": "float",
+              "contents": 1
+            },
+            "displacementMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "displacementScale": {
+              "type": "float",
+              "contents": 1
+            },
+            "displacementBias": {
+              "type": "float",
+              "contents": 0
+            },
+            "roughness": {
+              "type": "float",
+              "contents": 1
+            },
+            "roughnessMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "metalness": {
+              "type": "float",
+              "contents": 1
+            },
+            "metalnessMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "aoMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "aoMapIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "lightMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "lightMapIntensity": {
+              "type": "float",
+              "contents": 1
+            }
+          }
+        }
+      },
+      "name": "MeshStandardMaterial"
+    },
+    {
+      "doubleSided": true,
+      "name": "Furniture_cc03",
+      "extensions": {
+        "EE_material": {
+          "uuid": "94f3eee4-8ef0-4cd4-b7c3-77cc48fc513c",
+          "name": "Furniture_cc03",
+          "prototype": "MeshStandardMaterial",
+          "plugins": [],
+          "args": {
+            "alphaTest": {
+              "type": "float",
+              "contents": 0
+            },
+            "alphaMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "map": {
+              "type": "texture",
+              "contents": {
+                "index": 0,
+                "texCoord": 0
+              }
+            },
+            "color": {
+              "type": "color",
+              "contents": 16777215
+            },
+            "opacity": {
+              "type": "float",
+              "contents": 1
+            },
+            "blending": {
+              "type": "select",
+              "contents": 1
+            },
+            "depthTest": {
+              "type": "boolean",
+              "contents": true
+            },
+            "depthWrite": {
+              "type": "boolean",
+              "contents": true
+            },
+            "side": {
+              "type": "select",
+              "contents": 2
+            },
+            "toneMapped": {
+              "type": "boolean",
+              "contents": true
+            },
+            "transparent": {
+              "type": "boolean",
+              "contents": false
+            },
+            "vertexColors": {
+              "type": "boolean",
+              "contents": false
+            },
+            "emissive": {
+              "type": "color",
+              "contents": 0
+            },
+            "emissiveMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "emissiveIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "combine": {
+              "type": "select"
+            },
+            "envMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "envMapIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "reflectivity": {
+              "type": "float"
+            },
+            "refractionRatio": {
+              "type": "float"
+            },
+            "normalMap": {
+              "type": "texture",
+              "contents": {
+                "index": 1,
+                "texCoord": 0
+              }
+            },
+            "normalMapType": {
+              "type": "select",
+              "contents": 0
+            },
+            "normalScale": {
+              "type": "vec2",
+              "contents": {
+                "x": 1,
+                "y": -1
+              }
+            },
+            "bumpMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "bumpScale": {
+              "type": "float",
+              "contents": 1
+            },
+            "displacementMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "displacementScale": {
+              "type": "float",
+              "contents": 1
+            },
+            "displacementBias": {
+              "type": "float",
+              "contents": 0
+            },
+            "roughness": {
+              "type": "float",
+              "contents": 1
+            },
+            "roughnessMap": {
+              "type": "texture",
+              "contents": {
+                "index": 2,
+                "texCoord": 0
+              }
+            },
+            "metalness": {
+              "type": "float",
+              "contents": 1
+            },
+            "metalnessMap": {
+              "type": "texture",
+              "contents": {
+                "index": 2,
+                "texCoord": 0
+              }
+            },
+            "aoMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "aoMapIntensity": {
+              "type": "float",
+              "contents": 1
+            },
+            "lightMap": {
+              "type": "texture",
+              "contents": null
+            },
+            "lightMapIntensity": {
+              "type": "float",
+              "contents": 1
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ],
+      "extensions": {
+        "EE_resourceId": {
+          "resourceId": "c9fe53ae-198f-4eed-aef3-75f419711495"
+        }
+      }
+    },
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ],
+      "extensions": {
+        "EE_resourceId": {
+          "resourceId": "c2262a00-025d-4114-8536-9e165f34392d"
+        }
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Furniture_cc03_BaseColor",
+      "extensions": {
+        "EE_resourceId": {}
+      }
+    },
+    {
+      "sampler": 1,
+      "source": 1,
+      "name": "Furniture_cc03_Normal",
+      "extensions": {
+        "EE_resourceId": {}
+      }
+    },
+    {
+      "sampler": 2,
+      "source": 2,
+      "name": "Furniture_cc03_Metallic.png-Furniture_cc03_Roughness.png",
+      "extensions": {
+        "EE_resourceId": {}
+      }
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "uri": "./textures/Furniture_cc03_BaseColor.png"
+    },
+    {
+      "mimeType": "image/png",
+      "uri": "./textures/Furniture_cc03_Normal.png"
+    },
+    {
+      "mimeType": "image/png",
+      "uri": "./textures/Furniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.png"
+    }
+  ],
+  "extensionsUsed": [
+    "EE_material",
+    "EE_resourceId",
+    "EE_uuid",
+    "EE_collider",
+    "EE_ecs",
+    "EE_visible",
+    "EE_shadow",
+    "EE_rigidbody"
+  ]
 }
