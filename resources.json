@@ -18,6 +18,18 @@
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsArchitectural_Model_Lamp_Legs.002.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/models/Aur_Chair.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "chair",
+      "Model"
+    ],
+    "dependencies": [],
+    "licensing": "Chairfromt he Aurelia Template ",
+    "name": "Aurelia Chair"
+  },
   "assets/models/Aur_DisplayStand_Short.bin": {
     "type": "asset",
     "tags": [
@@ -104,9 +116,7 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_02_Roughness.png",
-    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/7c76ba80801b6dcbb6f88cee4baa5c371eac51f33dcfce.png",
-    "thumbnailMode": "automatic"
+    "name": "Aurelia_Atlas_02_Roughness.png"
   },
   "assets/models/Aurelia_Props/Aur_CenterRack.bin": {
     "type": "asset",
@@ -2185,6 +2195,64 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStorage_box.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Aurelia_Atlas_01_base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_base_color.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/98a2bf6aa9f2f9e826d756a7a03c42d6853dd8f7b8fd6b.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Aurelia_Atlas_01_normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_normal.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/8b0d349673f78428cfbdeda3ce027ad37fe081bd8cab9f.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Aurelia_Atlas_01_ORM.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_ORM.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/8440faf3c6ed2a3be2bd3b62e7c163e55ce9514e90837d.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Aurelia_Atlas_02_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Base_color.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/a1968a78eb25cda008859858d7ced8cbef8bb946f95823.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Aurelia_Atlas_02_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Normal_OpenGL.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/9fe1f600ea5675091fd88e5ac0f4776afe9a26077f42c0.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/textures/Aurelia_Atlas_02_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Roughness.png"
   },
   "assets/models/textures/Colorful_Curved_Trimsheet_Color.png": {
     "type": "asset",
