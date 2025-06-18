@@ -27,8 +27,10 @@
       "Model"
     ],
     "dependencies": [],
-    "licensing": "Chairfromt he Aurelia Template ",
-    "name": "Aurelia Chair"
+    "licensing": "Chair from the Aurelia Template ",
+    "name": "Aurelia Chair",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/844cf8536d8f9842ca53dfbb438578c3ce1f0b83a20161.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aur_DisplayStand_Short.bin": {
     "type": "asset",
@@ -84,7 +86,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_01_normal.png"
+    "name": "Aurelia_Atlas_01_normal.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/cd51da833a40e73383b5064fda6477115880059a8ce098.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_01_ORM.png": {
     "type": "asset",
@@ -100,7 +104,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_02_Base_color.png"
+    "name": "Aurelia_Atlas_02_Base_color.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/cbf5d853029d0a74de5468d1fca1ad79b1f89f4bb4a546.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_02_Normal_OpenGL.png": {
     "type": "asset",
@@ -108,7 +114,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_02_Normal_OpenGL.png"
+    "name": "Aurelia_Atlas_02_Normal_OpenGL.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/edc261aa0644c7f620ddc50064482eabdb617c3a9e1f33.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_02_Roughness.png": {
     "type": "asset",
@@ -116,7 +124,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_02_Roughness.png"
+    "name": "Aurelia_Atlas_02_Roughness.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/8bf2ec0fbb39cc35299c99f430ed85b25b593780710203.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Props/Aur_CenterRack.bin": {
     "type": "asset",
