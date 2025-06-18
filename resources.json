@@ -4,7 +4,8 @@
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Architectural_Model_Lamp_Legs.002.bin"
   },
   "assets/models/Architectural_Model_Lamp_Legs.002.gltf": {
     "type": "asset",
@@ -15,8 +16,12 @@
       "lamp"
     ],
     "dependencies": [],
+    "name": "Architectural_Model_Lamp_Legs.002.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsArchitectural_Model_Lamp_Legs.002.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.48,
+    "height": 4.4,
+    "depth": 2.54
   },
   "assets/models/Aur_Chair.gltf": {
     "type": "asset",
@@ -379,7 +384,8 @@
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "BasicSeat.bin"
   },
   "assets/models/BasicSeat.gltf": {
     "type": "asset",
@@ -391,15 +397,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "BasicSeat.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsBasicSeat.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.65,
+    "height": 0.69,
+    "depth": 0.69
   },
   "assets/models/Bed_plush.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Bed_plush.001.bin"
   },
   "assets/models/Bed_plush.001.gltf": {
     "type": "asset",
@@ -411,15 +422,20 @@
       "bed"
     ],
     "dependencies": [],
+    "name": "Bed_plush.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsBed_plush.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 8.22,
+    "height": 4.94,
+    "depth": 7.87
   },
   "assets/models/Bigrug.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Bigrug.bin"
   },
   "assets/models/Bigrug.gltf": {
     "type": "asset",
@@ -430,15 +446,20 @@
       "rug"
     ],
     "dependencies": [],
+    "name": "Bigrug.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsBigrug.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.55,
+    "height": 0,
+    "depth": 1.17
   },
   "assets/models/bookcase_circle.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookcase_circle.bin"
   },
   "assets/models/bookcase_circle.gltf": {
     "type": "asset",
@@ -450,15 +471,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookcase_circle.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase_circle.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.31,
+    "height": 1.78,
+    "depth": 1.78
   },
   "assets/models/bookcase.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookcase.001.bin"
   },
   "assets/models/bookcase.001.gltf": {
     "type": "asset",
@@ -470,15 +496,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookcase.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.41,
+    "height": 1.41,
+    "depth": 2.25
   },
   "assets/models/bookcase.003.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookcase.003.bin"
   },
   "assets/models/bookcase.003.gltf": {
     "type": "asset",
@@ -490,15 +521,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookcase.003.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.003.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.88,
+    "height": 3.62,
+    "depth": 3.6
   },
   "assets/models/bookcase.004.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookcase.004.bin"
   },
   "assets/models/bookcase.004.gltf": {
     "type": "asset",
@@ -510,15 +546,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookcase.004.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.004.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.8,
+    "height": 3.81,
+    "depth": 3.98
   },
   "assets/models/bookcase.006.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookcase.006.bin"
   },
   "assets/models/bookcase.006.gltf": {
     "type": "asset",
@@ -530,15 +571,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookcase.006.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.006.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.43,
+    "height": 2.89,
+    "depth": 2.04
   },
   "assets/models/bookcase.008.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookcase.008.bin"
   },
   "assets/models/bookcase.008.gltf": {
     "type": "asset",
@@ -550,15 +596,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookcase.008.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookcase.008.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.58,
+    "height": 3.2,
+    "depth": 1.48
   },
   "assets/models/bookshelf_tall.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "bookshelf_tall.001.bin"
   },
   "assets/models/bookshelf_tall.001.gltf": {
     "type": "asset",
@@ -570,15 +621,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "bookshelf_tall.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsbookshelf_tall.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.3,
+    "height": 1.94,
+    "depth": 2.01
   },
   "assets/models/California_office_chair.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "California_office_chair.001.bin"
   },
   "assets/models/California_office_chair.001.gltf": {
     "type": "asset",
@@ -591,15 +647,20 @@
       "office"
     ],
     "dependencies": [],
+    "name": "California_office_chair.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCalifornia_office_chair.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.34,
+    "height": 2.8,
+    "depth": 2.38
   },
   "assets/models/Camille_Navy_Velvet_Dining_Chair007.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Camille_Navy_Velvet_Dining_Chair007.001.bin"
   },
   "assets/models/Camille_Navy_Velvet_Dining_Chair007.001.gltf": {
     "type": "asset",
@@ -611,15 +672,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Camille_Navy_Velvet_Dining_Chair007.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCamille_Navy_Velvet_Dining_Chair007.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.69,
+    "height": 2.48,
+    "depth": 1.51
   },
   "assets/models/Chair_jungle.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Chair_jungle.bin"
   },
   "assets/models/Chair_jungle.gltf": {
     "type": "asset",
@@ -631,15 +697,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Chair_jungle.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsChair_jungle.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.14,
+    "height": 1.47,
+    "depth": 1.05
   },
   "assets/models/Circle_chair.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Circle_chair.001.bin"
   },
   "assets/models/Circle_chair.001.gltf": {
     "type": "asset",
@@ -651,15 +722,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Circle_chair.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCircle_chair.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.05,
+    "height": 0.98,
+    "depth": 0.87
   },
   "assets/models/cirlcelamp.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cirlcelamp.bin"
   },
   "assets/models/cirlcelamp.gltf": {
     "type": "asset",
@@ -671,15 +747,20 @@
       "lamp"
     ],
     "dependencies": [],
+    "name": "cirlcelamp.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscirlcelamp.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.92,
+    "height": 0.52,
+    "depth": 0.92
   },
   "assets/models/Coffee_table_-_2.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Coffee_table_-_2.bin"
   },
   "assets/models/Coffee_table_-_2.gltf": {
     "type": "asset",
@@ -693,15 +774,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Coffee_table_-_2.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table_-_2.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2,
+    "height": 0.46,
+    "depth": 1
   },
   "assets/models/Coffee_table_-_3.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Coffee_table_-_3.bin"
   },
   "assets/models/Coffee_table_-_3.gltf": {
     "type": "asset",
@@ -715,15 +801,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Coffee_table_-_3.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table_-_3.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2,
+    "height": 0.41,
+    "depth": 0.88
   },
   "assets/models/Coffee_table_-_4.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Coffee_table_-_4.bin"
   },
   "assets/models/Coffee_table_-_4.gltf": {
     "type": "asset",
@@ -737,15 +828,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Coffee_table_-_4.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table_-_4.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2,
+    "height": 0.41,
+    "depth": 0.62
   },
   "assets/models/Coffee_Table_-1.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Coffee_Table_-1.bin"
   },
   "assets/models/Coffee_Table_-1.gltf": {
     "type": "asset",
@@ -759,15 +855,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Coffee_Table_-1.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_Table_-1.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.99,
+    "height": 0.51,
+    "depth": 1.02
   },
   "assets/models/coffee_table_cubes.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "coffee_table_cubes.001.bin"
   },
   "assets/models/coffee_table_cubes.001.gltf": {
     "type": "asset",
@@ -779,15 +880,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "coffee_table_cubes.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscoffee_table_cubes.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.12,
+    "height": 0.43,
+    "depth": 1.12
   },
   "assets/models/coffee_table_flat.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "coffee_table_flat.001.bin"
   },
   "assets/models/coffee_table_flat.001.gltf": {
     "type": "asset",
@@ -799,15 +905,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "coffee_table_flat.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscoffee_table_flat.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.9,
+    "height": 0.56,
+    "depth": 0.74
   },
   "assets/models/Coffee_table.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Coffee_table.bin"
   },
   "assets/models/Coffee_table.gltf": {
     "type": "asset",
@@ -819,15 +930,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Coffee_table.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCoffee_table.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.89,
+    "height": 0.32,
+    "depth": 0.91
   },
   "assets/models/Couch_padded.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Couch_padded.bin"
   },
   "assets/models/Couch_padded.gltf": {
     "type": "asset",
@@ -839,15 +955,20 @@
       "sofa"
     ],
     "dependencies": [],
+    "name": "Couch_padded.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCouch_padded.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.84,
+    "height": 0.64,
+    "depth": 2.29
   },
   "assets/models/cubeLamp.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "cubeLamp.bin"
   },
   "assets/models/cubeLamp.gltf": {
     "type": "asset",
@@ -858,15 +979,20 @@
       "lamp"
     ],
     "dependencies": [],
+    "name": "cubeLamp.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscubeLamp.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.24,
+    "height": 0.53,
+    "depth": 0.24
   },
   "assets/models/Curved_Colorful_Chair.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Chair.001.bin"
   },
   "assets/models/Curved_Colorful_Chair.001.gltf": {
     "type": "asset",
@@ -880,15 +1006,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Chair.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Chair.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.27,
+    "height": 1.81,
+    "depth": 1.11
   },
   "assets/models/Curved_Colorful_Chair.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Chair.bin"
   },
   "assets/models/Curved_Colorful_Chair.gltf": {
     "type": "asset",
@@ -902,15 +1033,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Chair.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Chair.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.27,
+    "height": 1.81,
+    "depth": 1.11
   },
   "assets/models/Curved_Colorful_Desk.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Desk.bin"
   },
   "assets/models/Curved_Colorful_Desk.gltf": {
     "type": "asset",
@@ -924,15 +1060,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Desk.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Desk.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.35,
+    "height": 1.32,
+    "depth": 2.49
   },
   "assets/models/Curved_Colorful_Roller_Chair.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Roller_Chair.bin"
   },
   "assets/models/Curved_Colorful_Roller_Chair.gltf": {
     "type": "asset",
@@ -946,15 +1087,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Roller_Chair.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Roller_Chair.gltfhash84b35b-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.49,
+    "height": 2.05,
+    "depth": 1.44
   },
   "assets/models/Curved_Colorful_Rug.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Rug.bin"
   },
   "assets/models/Curved_Colorful_Rug.gltf": {
     "type": "asset",
@@ -967,15 +1113,20 @@
       "rug"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Rug.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Rug.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.67,
+    "height": 0.03,
+    "depth": 2.13
   },
   "assets/models/Curved_Colorful_Soft_Chair_01.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Soft_Chair_01.bin"
   },
   "assets/models/Curved_Colorful_Soft_Chair_01.gltf": {
     "type": "asset",
@@ -989,15 +1140,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Soft_Chair_01.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Soft_Chair_01.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.94,
+    "height": 1.4,
+    "depth": 1.27
   },
   "assets/models/Curved_Colorful_Soft_Chair_02.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Soft_Chair_02.bin"
   },
   "assets/models/Curved_Colorful_Soft_Chair_02.gltf": {
     "type": "asset",
@@ -1011,15 +1167,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Soft_Chair_02.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Soft_Chair_02.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.94,
+    "height": 1.4,
+    "depth": 1.27
   },
   "assets/models/Curved_Colorful_Swoop_Desk.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Swoop_Desk.bin"
   },
   "assets/models/Curved_Colorful_Swoop_Desk.gltf": {
     "type": "asset",
@@ -1033,15 +1194,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Swoop_Desk.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Swoop_Desk.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.19,
+    "height": 1.38,
+    "depth": 3.25
   },
   "assets/models/Curved_Colorful_Table.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Table.bin"
   },
   "assets/models/Curved_Colorful_Table.gltf": {
     "type": "asset",
@@ -1055,15 +1221,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Table.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Table.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.98,
+    "height": 1.04,
+    "depth": 1.98
   },
   "assets/models/Curved_Colorful_Wall_Pod.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Curved_Colorful_Wall_Pod.bin"
   },
   "assets/models/Curved_Colorful_Wall_Pod.gltf": {
     "type": "asset",
@@ -1077,15 +1248,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Curved_Colorful_Wall_Pod.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsCurved_Colorful_Wall_Pod.gltfhashb67e35-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.49,
+    "height": 4.52,
+    "depth": 1.09
   },
   "assets/models/curvy_table.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "curvy_table.bin"
   },
   "assets/models/curvy_table.gltf": {
     "type": "asset",
@@ -1097,15 +1273,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "curvy_table.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelscurvy_table.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.66,
+    "height": 0.35,
+    "depth": 0.21
   },
   "assets/models/Dining_table.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Dining_table.001.bin"
   },
   "assets/models/Dining_table.001.gltf": {
     "type": "asset",
@@ -1119,15 +1300,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Dining_table.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsDining_table.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 3.04,
+    "height": 0.74,
+    "depth": 1.16
   },
   "assets/models/Egg_chair_half.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Egg_chair_half.001.bin"
   },
   "assets/models/Egg_chair_half.001.gltf": {
     "type": "asset",
@@ -1139,15 +1325,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Egg_chair_half.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsEgg_chair_half.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.01,
+    "height": 1.1,
+    "depth": 0.82
   },
   "assets/models/Egg_chair.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Egg_chair.001.bin"
   },
   "assets/models/Egg_chair.001.gltf": {
     "type": "asset",
@@ -1155,15 +1346,20 @@
       "Model"
     ],
     "dependencies": [],
+    "name": "Egg_chair.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsEgg_chair.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.01,
+    "height": 1.96,
+    "depth": 0.84
   },
   "assets/models/Floria_Velvet_CHair_001.002.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Floria_Velvet_CHair_001.002.bin"
   },
   "assets/models/Floria_Velvet_CHair_001.002.gltf": {
     "type": "asset",
@@ -1175,15 +1371,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Floria_Velvet_CHair_001.002.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsFloria_Velvet_CHair_001.002.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.82,
+    "height": 0.86,
+    "depth": 0.88
   },
   "assets/models/folded_shelf.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "folded_shelf.001.bin"
   },
   "assets/models/folded_shelf.001.gltf": {
     "type": "asset",
@@ -1195,15 +1396,20 @@
       "bookshelf"
     ],
     "dependencies": [],
+    "name": "folded_shelf.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsfolded_shelf.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.32,
+    "height": 1.13,
+    "depth": 0.3
   },
   "assets/models/gold_sculpture.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "gold_sculpture.bin"
   },
   "assets/models/gold_sculpture.gltf": {
     "type": "asset",
@@ -1215,15 +1421,20 @@
       "sculpture"
     ],
     "dependencies": [],
+    "name": "gold_sculpture.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsgold_sculpture.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.27,
+    "height": 0.27,
+    "depth": 0.27
   },
   "assets/models/large_circular_plinth.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "large_circular_plinth.bin"
   },
   "assets/models/large_circular_plinth.gltf": {
     "type": "asset",
@@ -1236,15 +1447,20 @@
       "plinth"
     ],
     "dependencies": [],
+    "name": "large_circular_plinth.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelslarge_circular_plinth.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.69,
+    "height": 2.36,
+    "depth": 1.69
   },
   "assets/models/linelamp.002.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "linelamp.002.bin"
   },
   "assets/models/linelamp.002.gltf": {
     "type": "asset",
@@ -1257,15 +1473,20 @@
       "lamp"
     ],
     "dependencies": [],
+    "name": "linelamp.002.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelslinelamp.002.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.05,
+    "height": 0.54,
+    "depth": 1.36
   },
   "assets/models/Makeup_console.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Makeup_console.bin"
   },
   "assets/models/Makeup_console.gltf": {
     "type": "asset",
@@ -1277,15 +1498,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Makeup_console.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMakeup_console.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.78,
+    "height": 1.29,
+    "depth": 0.76
   },
   "assets/models/Midcentury_Chair.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Midcentury_Chair.001.bin"
   },
   "assets/models/Midcentury_Chair.001.gltf": {
     "type": "asset",
@@ -1297,15 +1523,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Midcentury_Chair.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMidcentury_Chair.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.22,
+    "height": 1.91,
+    "depth": 1.67
   },
   "assets/models/midCentury_console.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "midCentury_console.bin"
   },
   "assets/models/midCentury_console.gltf": {
     "type": "asset",
@@ -1317,15 +1548,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "midCentury_console.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsmidCentury_console.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.35,
+    "height": 0.82,
+    "depth": 0.4
   },
   "assets/models/Midcentury_Footstool.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Midcentury_Footstool.001.bin"
   },
   "assets/models/Midcentury_Footstool.001.gltf": {
     "type": "asset",
@@ -1337,15 +1573,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Midcentury_Footstool.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMidcentury_Footstool.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.04,
+    "height": 1.03,
+    "depth": 2.09
   },
   "assets/models/Midcentury_rug.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Midcentury_rug.001.bin"
   },
   "assets/models/Midcentury_rug.001.gltf": {
     "type": "asset",
@@ -1356,15 +1597,20 @@
       "rug"
     ],
     "dependencies": [],
+    "name": "Midcentury_rug.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsMidcentury_rug.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 4.47,
+    "height": 0.04,
+    "depth": 4.02
   },
   "assets/models/mirabel_98_pewter.002.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "mirabel_98_pewter.002.bin"
   },
   "assets/models/mirabel_98_pewter.002.gltf": {
     "type": "asset",
@@ -1376,8 +1622,12 @@
       "sofa"
     ],
     "dependencies": [],
+    "name": "mirabel_98_pewter.002.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsmirabel_98_pewter.002.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 5.18,
+    "height": 3.31,
+    "depth": 9.87
   },
   "assets/models/model-resources/Egg_chair/buffers/208e0bf817bf7576e72321cfce1334fb0679b9276409215ea1bf8cbe377ea75e.bin": {
     "type": "file",
@@ -1419,7 +1669,8 @@
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Computer_1.001.bin"
   },
   "assets/models/Office_-_Computer_1.001.gltf": {
     "type": "asset",
@@ -1432,15 +1683,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_Computer_1.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Computer_1.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.37,
+    "height": 0.11,
+    "depth": 0.37
   },
   "assets/models/Office_-_Computer_2.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Computer_2.001.bin"
   },
   "assets/models/Office_-_Computer_2.001.gltf": {
     "type": "asset",
@@ -1453,15 +1709,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_Computer_2.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Computer_2.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.37,
+    "height": 0.12,
+    "depth": 0.37
   },
   "assets/models/Office_-_Conference_table_modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Conference_table_modern.001.bin"
   },
   "assets/models/Office_-_Conference_table_modern.001.gltf": {
     "type": "asset",
@@ -1475,15 +1736,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Conference_table_modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Conference_table_modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2,
+    "height": 1.01,
+    "depth": 6
   },
   "assets/models/Office_-_Cubicle_2x2_modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Cubicle_2x2_modern.001.bin"
   },
   "assets/models/Office_-_Cubicle_2x2_modern.001.gltf": {
     "type": "asset",
@@ -1496,15 +1762,20 @@
       "cubicle"
     ],
     "dependencies": [],
+    "name": "Office_-_Cubicle_2x2_modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Cubicle_2x2_modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.01,
+    "height": 1.67,
+    "depth": 3.04
   },
   "assets/models/Office_-_Cubicle_6x2_modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Cubicle_6x2_modern.001.bin"
   },
   "assets/models/Office_-_Cubicle_6x2_modern.001.gltf": {
     "type": "asset",
@@ -1517,15 +1788,20 @@
       "cubicle"
     ],
     "dependencies": [],
+    "name": "Office_-_Cubicle_6x2_modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Cubicle_6x2_modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.08,
+    "height": 1.67,
+    "depth": 6.09
   },
   "assets/models/Office_-_Desk_1_Modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Desk_1_Modern.001.bin"
   },
   "assets/models/Office_-_Desk_1_Modern.001.gltf": {
     "type": "asset",
@@ -1540,15 +1816,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Desk_1_Modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_1_Modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.85,
+    "height": 1.2,
+    "depth": 2.16
   },
   "assets/models/Office_-_Desk_2_Modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Desk_2_Modern.001.bin"
   },
   "assets/models/Office_-_Desk_2_Modern.001.gltf": {
     "type": "asset",
@@ -1563,15 +1844,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Desk_2_Modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_2_Modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.86,
+    "height": 0.99,
+    "depth": 2.11
   },
   "assets/models/Office_-_Desk_chair_modern_black.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Desk_chair_modern_black.001.bin"
   },
   "assets/models/Office_-_Desk_chair_modern_black.001.gltf": {
     "type": "asset",
@@ -1585,15 +1871,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Desk_chair_modern_black.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_chair_modern_black.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.05,
+    "height": 1.3,
+    "depth": 0.95
   },
   "assets/models/Office_-_Desk_chair_modern_orange.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Desk_chair_modern_orange.001.bin"
   },
   "assets/models/Office_-_Desk_chair_modern_orange.001.gltf": {
     "type": "asset",
@@ -1607,15 +1898,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Desk_chair_modern_orange.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_chair_modern_orange.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.05,
+    "height": 1.3,
+    "depth": 0.95
   },
   "assets/models/Office_-_Desk_chair_modern_white.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Desk_chair_modern_white.001.bin"
   },
   "assets/models/Office_-_Desk_chair_modern_white.001.gltf": {
     "type": "asset",
@@ -1629,15 +1925,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Desk_chair_modern_white.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Desk_chair_modern_white.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.05,
+    "height": 1.3,
+    "depth": 0.95
   },
   "assets/models/Office_-_guest_chair_modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_guest_chair_modern.001.bin"
   },
   "assets/models/Office_-_guest_chair_modern.001.gltf": {
     "type": "asset",
@@ -1651,15 +1952,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_guest_chair_modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_guest_chair_modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.85,
+    "height": 1.14,
+    "depth": 0.91
   },
   "assets/models/Office_-_iMac.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_iMac.001.bin"
   },
   "assets/models/Office_-_iMac.001.gltf": {
     "type": "asset",
@@ -1672,15 +1978,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_iMac.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_iMac.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.24,
+    "height": 0.8,
+    "depth": 1.03
   },
   "assets/models/Office_-_keyboard.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_keyboard.001.bin"
   },
   "assets/models/Office_-_keyboard.001.gltf": {
     "type": "asset",
@@ -1693,15 +2004,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_keyboard.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_keyboard.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.29,
+    "height": 0.04,
+    "depth": 0.8
   },
   "assets/models/Office_-_Leg_chair_modern_black.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Leg_chair_modern_black.001.bin"
   },
   "assets/models/Office_-_Leg_chair_modern_black.001.gltf": {
     "type": "asset",
@@ -1715,15 +2031,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Leg_chair_modern_black.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Leg_chair_modern_black.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.99,
+    "height": 1.38,
+    "depth": 0.82
   },
   "assets/models/Office_-_Leg_chair_modern_orange.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Leg_chair_modern_orange.001.bin"
   },
   "assets/models/Office_-_Leg_chair_modern_orange.001.gltf": {
     "type": "asset",
@@ -1737,15 +2058,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Leg_chair_modern_orange.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Leg_chair_modern_orange.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.99,
+    "height": 1.38,
+    "depth": 0.82
   },
   "assets/models/Office_-_Leg_chair_modern_white.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Leg_chair_modern_white.001.bin"
   },
   "assets/models/Office_-_Leg_chair_modern_white.001.gltf": {
     "type": "asset",
@@ -1759,15 +2085,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Leg_chair_modern_white.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Leg_chair_modern_white.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.99,
+    "height": 1.38,
+    "depth": 0.82
   },
   "assets/models/Office_-_Light_fixture_1.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Light_fixture_1.001.bin"
   },
   "assets/models/Office_-_Light_fixture_1.001.gltf": {
     "type": "asset",
@@ -1780,15 +2111,20 @@
       "light"
     ],
     "dependencies": [],
+    "name": "Office_-_Light_fixture_1.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Light_fixture_1.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2,
+    "height": 0.78,
+    "depth": 1
   },
   "assets/models/Office_-_Light_fixture_2.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Light_fixture_2.001.bin"
   },
   "assets/models/Office_-_Light_fixture_2.001.gltf": {
     "type": "asset",
@@ -1801,15 +2137,20 @@
       "light"
     ],
     "dependencies": [],
+    "name": "Office_-_Light_fixture_2.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Light_fixture_2.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 4,
+    "height": 0.78,
+    "depth": 1
   },
   "assets/models/Office_-_Monitor.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Monitor.001.bin"
   },
   "assets/models/Office_-_Monitor.001.gltf": {
     "type": "asset",
@@ -1822,15 +2163,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_Monitor.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Monitor.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.31,
+    "height": 0.8,
+    "depth": 0.98
   },
   "assets/models/Office_-_mouse.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_mouse.001.bin"
   },
   "assets/models/Office_-_mouse.001.gltf": {
     "type": "asset",
@@ -1843,15 +2189,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_mouse.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_mouse.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.14,
+    "height": 0.06,
+    "depth": 0.07
   },
   "assets/models/Office_-_Server_farm_modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Server_farm_modern.001.bin"
   },
   "assets/models/Office_-_Server_farm_modern.001.gltf": {
     "type": "asset",
@@ -1864,15 +2215,20 @@
       "computer"
     ],
     "dependencies": [],
+    "name": "Office_-_Server_farm_modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Server_farm_modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.01,
+    "height": 2,
+    "depth": 0.6
   },
   "assets/models/Office_-_Shelves_2x3_modern.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Shelves_2x3_modern.001.bin"
   },
   "assets/models/Office_-_Shelves_2x3_modern.001.gltf": {
     "type": "asset",
@@ -1885,15 +2241,20 @@
       "shelf"
     ],
     "dependencies": [],
+    "name": "Office_-_Shelves_2x3_modern.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Shelves_2x3_modern.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.1,
+    "height": 2.19,
+    "depth": 1.72
   },
   "assets/models/Office_-_Task_chair_modern_black.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Task_chair_modern_black.001.bin"
   },
   "assets/models/Office_-_Task_chair_modern_black.001.gltf": {
     "type": "asset",
@@ -1907,15 +2268,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Task_chair_modern_black.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Task_chair_modern_black.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.77,
+    "height": 1.18,
+    "depth": 0.84
   },
   "assets/models/Office_-_Task_chair_modern_orange.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Task_chair_modern_orange.001.bin"
   },
   "assets/models/Office_-_Task_chair_modern_orange.001.gltf": {
     "type": "asset",
@@ -1929,15 +2295,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Task_chair_modern_orange.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Task_chair_modern_orange.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.77,
+    "height": 1.18,
+    "depth": 0.84
   },
   "assets/models/Office_-_Task_chair_modern_white.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Office_-_Task_chair_modern_white.001.bin"
   },
   "assets/models/Office_-_Task_chair_modern_white.001.gltf": {
     "type": "asset",
@@ -1951,15 +2322,20 @@
       "furniture"
     ],
     "dependencies": [],
+    "name": "Office_-_Task_chair_modern_white.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsOffice_-_Task_chair_modern_white.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.77,
+    "height": 1.18,
+    "depth": 0.84
   },
   "assets/models/Pillowpile.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Pillowpile.001.bin"
   },
   "assets/models/Pillowpile.001.gltf": {
     "type": "asset",
@@ -1970,15 +2346,20 @@
       "pillow"
     ],
     "dependencies": [],
+    "name": "Pillowpile.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsPillowpile.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.4,
+    "height": 0.46,
+    "depth": 0.54
   },
   "assets/models/Pouf_chair.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Pouf_chair.001.bin"
   },
   "assets/models/Pouf_chair.001.gltf": {
     "type": "asset",
@@ -1990,15 +2371,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Pouf_chair.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsPouf_chair.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.61,
+    "height": 0.56,
+    "depth": 0.63
   },
   "assets/models/Round_Table.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Round_Table.001.bin"
   },
   "assets/models/Round_Table.001.gltf": {
     "type": "asset",
@@ -2010,15 +2396,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Round_Table.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsRound_Table.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 5.71,
+    "height": 2.3,
+    "depth": 5.71
   },
   "assets/models/rounded_platform.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "rounded_platform.bin"
   },
   "assets/models/rounded_platform.gltf": {
     "type": "asset",
@@ -2031,15 +2422,20 @@
       "platform"
     ],
     "dependencies": [],
+    "name": "rounded_platform.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsrounded_platform.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 2.24,
+    "height": 5.11,
+    "depth": 2.45
   },
   "assets/models/Side_table_-_1.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Side_table_-_1.001.bin"
   },
   "assets/models/Side_table_-_1.001.gltf": {
     "type": "asset",
@@ -2053,15 +2449,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Side_table_-_1.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsSide_table_-_1.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.19,
+    "height": 0.59,
+    "depth": 1.19
   },
   "assets/models/Side_table_-_2.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Side_table_-_2.001.bin"
   },
   "assets/models/Side_table_-_2.001.gltf": {
     "type": "asset",
@@ -2075,15 +2476,20 @@
       "table"
     ],
     "dependencies": [],
+    "name": "Side_table_-_2.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsSide_table_-_2.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.19,
+    "height": 0.58,
+    "depth": 1.19
   },
   "assets/models/Simple_chair.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Simple_chair.bin"
   },
   "assets/models/Simple_chair.gltf": {
     "type": "asset",
@@ -2097,15 +2503,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Simple_chair.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsSimple_chair.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.66,
+    "height": 1.09,
+    "depth": 0.82
   },
   "assets/models/smallrug.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "smallrug.001.bin"
   },
   "assets/models/smallrug.001.gltf": {
     "type": "asset",
@@ -2116,15 +2527,20 @@
       " rug"
     ],
     "dependencies": [],
+    "name": "smallrug.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelssmallrug.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.99,
+    "height": 0,
+    "depth": 0.99
   },
   "assets/models/squarelamp.002.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "squarelamp.002.bin"
   },
   "assets/models/squarelamp.002.gltf": {
     "type": "asset",
@@ -2137,15 +2553,20 @@
       "lamp"
     ],
     "dependencies": [],
+    "name": "squarelamp.002.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelssquarelamp.002.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.8,
+    "height": 0.54,
+    "depth": 1.33
   },
   "assets/models/Standing_shelves_-_1.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Standing_shelves_-_1.001.bin"
   },
   "assets/models/Standing_shelves_-_1.001.gltf": {
     "type": "asset",
@@ -2159,15 +2580,20 @@
       "shelf"
     ],
     "dependencies": [],
+    "name": "Standing_shelves_-_1.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStanding_shelves_-_1.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.85,
+    "height": 1.39,
+    "depth": 0.76
   },
   "assets/models/Standing_shelves_-_2.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Standing_shelves_-_2.001.bin"
   },
   "assets/models/Standing_shelves_-_2.001.gltf": {
     "type": "asset",
@@ -2181,15 +2607,20 @@
       "shelf"
     ],
     "dependencies": [],
+    "name": "Standing_shelves_-_2.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStanding_shelves_-_2.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.44,
+    "height": 1.39,
+    "depth": 0.48
   },
   "assets/models/Storage_box.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Storage_box.bin"
   },
   "assets/models/Storage_box.gltf": {
     "type": "asset",
@@ -2203,8 +2634,12 @@
       "shelf"
     ],
     "dependencies": [],
+    "name": "Storage_box.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsStorage_box.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.5,
+    "height": 0.5,
+    "depth": 0.5
   },
   "assets/models/textures/Aurelia_Atlas_01_base_color.png": {
     "type": "asset",
@@ -2270,6 +2705,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Colorful_Curved_Trimsheet_Color.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesColorful_Curved_Trimsheet_Color.pnghash8e8332-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2279,6 +2715,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Colorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesColorful_Curved_Trimsheet_Metallic-Colorful_Curved_Trimsheet_Roughness.pnghash2c400e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2288,6 +2725,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Colorful_Curved_Trimsheet_Normal.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesColorful_Curved_Trimsheet_Normal.pnghashe6757e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2297,6 +2735,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "computer_trimsheet_Base_color.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturescomputer_trimsheet_Base_color.pnghash142063-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2306,6 +2745,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "computer_trimsheet_Metallic-computer_trimsheet_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturescomputer_trimsheet_Metallic-computer_trimsheet_Roughness.pnghash32c1de-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2315,6 +2755,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "computer_trimsheet_Normal_OpenGL.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturescomputer_trimsheet_Normal_OpenGL.pnghash74e658-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2324,6 +2765,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_CC02_BaseColor.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_BaseColor.pnghash750846-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2333,6 +2775,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_CC02_Emission.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_Emission.pnghash7db2cc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2342,6 +2785,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_CC02_Metallic_png-Furniture_CC02_Roughness_png.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_Metallic_png-Furniture_CC02_Roughness_png.pnghashf1124c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2351,6 +2795,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_CC02_Normal.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_CC02_Normal.pnghash788193-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2360,6 +2805,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_cc03_BaseColor.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_cc03_BaseColor.pnghash90714c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2369,6 +2815,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_cc03_Metallic_png-Furniture_cc03_Roughness_png.pnghash43b386-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2378,6 +2825,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_cc03_Normal.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_cc03_Normal.pnghash1dc18d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2387,6 +2835,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc05_BaseColor.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_BaseColor.pnghashe285fd-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2396,6 +2845,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc05_Emission.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_Emission.pnghash02b59b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2405,6 +2855,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc05_Metallic-furniture_cc05_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_Metallic-furniture_cc05_Roughness.pnghashff67c5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2414,6 +2865,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc05_Normal.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc05_Normal.pnghashbd2514-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2423,6 +2875,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc06_BaseColor.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_BaseColor.pnghash236e9b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2432,6 +2885,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc06_Emission.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_Emission.pnghashc56828-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2441,6 +2895,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc06_Metallic-furniture_cc06_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_Metallic-furniture_cc06_Roughness.pnghashda42d0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2450,6 +2905,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "furniture_cc06_Normal.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesfurniture_cc06_Normal.pnghashf795cc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2459,6 +2915,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_pack_1_Base_color.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_pack_1_Base_color.pnghash853e68-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2468,6 +2925,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_pack_1_Metallic-Furniture_pack_1_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_pack_1_Metallic-Furniture_pack_1_Roughness.pnghash283736-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2477,6 +2935,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Furniture_pack_1_Normal_OpenGL.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesFurniture_pack_1_Normal_OpenGL.pnghashca70ff-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2486,6 +2945,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Natural_store_trimsheet_1_Base_color.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesNatural_store_trimsheet_1_Base_color.pnghash62b253-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2495,6 +2955,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Natural_store_trimsheet_1_Metallic_png-Natural_store_trimsheet_1_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesNatural_store_trimsheet_1_Metallic_png-Natural_store_trimsheet_1_Roughness.pnghash2e203c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2504,6 +2965,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Natural_store_trimsheet_1_Normal_OpenGL.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesNatural_store_trimsheet_1_Normal_OpenGL.pnghash89a7ea-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2513,6 +2975,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Office_Furniture_Trimsheet_Base_color.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesOffice_Furniture_Trimsheet_Base_color.pnghash38c590-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2522,6 +2985,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Office_Furniture_Trimsheet_Metallic-Office_Furniture_Trimsheet_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesOffice_Furniture_Trimsheet_Metallic-Office_Furniture_Trimsheet_Roughness.pnghash809590-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2531,6 +2995,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Office_Furniture_Trimsheet_Normal_OpenGL.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesOffice_Furniture_Trimsheet_Normal_OpenGL.pnghash1b75e8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2540,6 +3005,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Wood_Furniture_modular_Base_color.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesWood_Furniture_modular_Base_color.pnghash32ef5a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2549,6 +3015,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Wood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesWood_Furniture_modular_Metallic-Wood_Furniture_modular_Roughness.pnghash6cf6ee-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2558,6 +3025,7 @@
       "Image"
     ],
     "dependencies": [],
+    "name": "Wood_Furniture_modular_Normal_OpenGL.png",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstexturesWood_Furniture_modular_Normal_OpenGL.pnghash4d5701-thumbnail.png",
     "thumbnailMode": "automatic"
   },
@@ -2566,7 +3034,8 @@
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "TorusKnotLight.001.bin"
   },
   "assets/models/TorusKnotLight.001.gltf": {
     "type": "asset",
@@ -2578,15 +3047,20 @@
       "ceiling lamp"
     ],
     "dependencies": [],
+    "name": "TorusKnotLight.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsTorusKnotLight.001.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.4,
+    "height": 1.76,
+    "depth": 1.46
   },
   "assets/models/triangle_plinths.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "triangle_plinths.bin"
   },
   "assets/models/triangle_plinths.gltf": {
     "type": "asset",
@@ -2599,15 +3073,20 @@
       "plinth"
     ],
     "dependencies": [],
+    "name": "triangle_plinths.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstriangle_plinths.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.6,
+    "height": 2.16,
+    "depth": 1.71
   },
   "assets/models/Vase_1.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Vase_1.001.bin"
   },
   "assets/models/Vase_1.001.gltf": {
     "type": "asset",
@@ -2618,15 +3097,20 @@
       "sculpture"
     ],
     "dependencies": [],
+    "name": "Vase_1.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVase_1.001.gltfhash97ae89-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.16,
+    "height": 0.21,
+    "depth": 0.16
   },
   "assets/models/Vase_2_low.002.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Vase_2_low.002.bin"
   },
   "assets/models/Vase_2_low.002.gltf": {
     "type": "asset",
@@ -2637,15 +3121,20 @@
       "sculpture"
     ],
     "dependencies": [],
+    "name": "Vase_2_low.002.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVase_2_low.002.gltfhash268514-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 0.12,
+    "height": 0.24,
+    "depth": 0.12
   },
   "assets/models/Velvet_armchair.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Velvet_armchair.bin"
   },
   "assets/models/Velvet_armchair.gltf": {
     "type": "asset",
@@ -2657,15 +3146,20 @@
       "chair"
     ],
     "dependencies": [],
+    "name": "Velvet_armchair.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVelvet_armchair.gltf-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 1.32,
+    "height": 1.6,
+    "depth": 2.39
   },
   "assets/models/Velvet_sofa.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Velvet_sofa.bin"
   },
   "assets/models/Velvet_sofa.gltf": {
     "type": "asset",
@@ -2677,15 +3171,20 @@
       "sofa"
     ],
     "dependencies": [],
+    "name": "Velvet_sofa.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsVelvet_sofa.gltfhash64c337-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 4.99,
+    "height": 1.26,
+    "depth": 1.73
   },
   "assets/models/Wall_shelves_-_2.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Wall_shelves_-_2.001.bin"
   },
   "assets/models/Wall_shelves_-_2.001.gltf": {
     "type": "asset",
@@ -2699,15 +3198,20 @@
       "shelf"
     ],
     "dependencies": [],
+    "name": "Wall_shelves_-_2.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-_2.001.gltfhash8cd9db-thumbnail.png",
-    "thumbnailMode": "automatic"
+    "thumbnailMode": "automatic",
+    "width": 3.04,
+    "height": 1.13,
+    "depth": 0.33
   },
   "assets/models/Wall_shelves_-1.001.bin": {
     "type": "file",
     "tags": [
       "unknown"
     ],
-    "dependencies": []
+    "dependencies": [],
+    "name": "Wall_shelves_-1.001.bin"
   },
   "assets/models/Wall_shelves_-1.001.gltf": {
     "type": "asset",
@@ -2721,8 +3225,12 @@
       "shelf"
     ],
     "dependencies": [],
+    "name": "Wall_shelves_-1.001.gltf",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-1.001.gltfhash4ac485-thumbnail.png",
     "thumbnailMode": "automatic"
+    "width": 3,
+    "height": 0.4,
+    "depth": 0.42
   },
   "public/scenes/New-Scene.gltf": {
     "type": "scene",
