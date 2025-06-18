@@ -18,6 +18,342 @@
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsArchitectural_Model_Lamp_Legs.002.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
+  "assets/models/Aur_DisplayStand_Short.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_Short.bin"
+  },
+  "assets/models/Aur_DisplayStand_ShortWide.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_ShortWide.bin"
+  },
+  "assets/models/Aur_DisplayStand_tall2.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_tall2.bin"
+  },
+  "assets/models/Aur_Potted_Plant.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_Potted_Plant.bin"
+  },
+  "assets/models/Aur_Potted_Plant.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_Potted_Plant.gltf"
+  },
+  "assets/models/Aurelia_Atlas_01_base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_base_color.png"
+  },
+  "assets/models/Aurelia_Atlas_01_normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_normal.png"
+  },
+  "assets/models/Aurelia_Atlas_01_ORM.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_ORM.png"
+  },
+  "assets/models/Aurelia_Atlas_02_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Base_color.png"
+  },
+  "assets/models/Aurelia_Atlas_02_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Normal_OpenGL.png"
+  },
+  "assets/models/Aurelia_Atlas_02_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Roughness.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/7c76ba80801b6dcbb6f88cee4baa5c371eac51f33dcfce.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_CenterRack.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_CenterRack.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_CenterRack.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aurelia Clothing Rack",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/f2e7f2db08e489b1c7592df789cb4dce9a72a598e149b8.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_Chair.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "chair",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aurelia Chair",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/5685be0874ab4fbc818f36305528dad89b65cc549e6a1d.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_med.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_med.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_med.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_med.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/bb597dd1791aab8e2ac76d1951c9476f11700c1b810a48.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_Short.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_Short.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_Short.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aurelia Display Stand Short",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/a50f6711f880d356c70af6df90bf5ca03aa76d250b16d3.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_ShortWide.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aurelia Display Stand Short Wide",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/a7f87f42c1ecaca702276c3821f0ce96e0751069e1f017.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_ShortWideM.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_ShortWideM.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_ShortWideM.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aurelia Display Stand Wide Medium",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/fb1ce6b88dd83136e6105e4500078e1b34d4f3a1a66410.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_tall.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_tall.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2ebfb83f6cc46c8546f053406e8ab513227e6b1c0971cc.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_DisplayStand_tall2.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_tall2.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/faf2392bc8b332ada6d7a8a6f5338207c6fe0bb86dc355.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_Poster.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_Poster.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_Poster.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_Poster.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2be7f82ced61c70b20ff5112848973318ac6924d978575.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_Potted_Plant.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_Potted_Plant.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_Potted_Plant.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_Potted_Plant.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/46d45050256a175df46a7fc4ed0ae31fc46b88f5f4fe14.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aur_Rug.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Aur_Rug.bin"
+  },
+  "assets/models/Aurelia_Props/Aur_Rug.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "rug",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_Rug.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/bf1689fbe54bcc09af8c7ebb39f29ab0ecc84d714ab33c.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aurelia_Atlas_01_base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_base_color.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/cc023e7fe7ddc8398ba325247d617d84f9a9e482e62e59.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aurelia_Atlas_01_normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_normal.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/c8de7cd511102fda487f3c8669b9e8482b5297ca7141e5.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aurelia_Atlas_01_ORM.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_01_ORM.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/008d611c2b539ed582c6a51ee89c17d15e3aa4643b2219.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aurelia_Atlas_02_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Base_color.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/8cc4403f1fb7420dba86163691bf36c487af696e63ae2a.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Aurelia_Props/Aurelia_Atlas_02_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Normal_OpenGL.png"
+  },
+  "assets/models/Aurelia_Props/Aurelia_Atlas_02_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Aurelia_Atlas_02_Roughness.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/7afec263ffb93c9ffb66195c5f50105ff599afa73af5d3.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/models/BasicSeat.bin": {
     "type": "file",
     "tags": [
@@ -796,11 +1132,7 @@
   "assets/models/Egg_chair.001.gltf": {
     "type": "asset",
     "tags": [
-      "Model",
-      "furniture_cc03",
-      "prop",
-      "furniture",
-      "chair"
+      "Model"
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsEgg_chair.001.gltf-thumbnail.png",
@@ -1026,6 +1358,41 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsmirabel_98_pewter.002.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "assets/models/model-resources/Egg_chair/buffers/208e0bf817bf7576e72321cfce1334fb0679b9276409215ea1bf8cbe377ea75e.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/model-resources/Egg_chair/buffers/40910a3cf4026d764463174cd07034f61554e26c23483e4dc698a3a839c001ec.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/model-resources/Egg_chair/buffers/70e7dc0c0c1f6745d22a0e601abed2202c3a9b1c9490a6c8ee79db0035757103.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/model-resources/Egg_chair/buffers/a7fe96b38d11014768a3c38e743374342e253fa5bb014f27b0ee1c21393b052c.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/models/model-resources/Egg_chair/buffers/b5c650d8b28a39a81c61644cd4011508738c838afe921cc3b67aa21464c2dd7d.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
   },
   "assets/models/Office_-_Computer_1.001.bin": {
     "type": "file",
@@ -2278,5 +2645,15 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-1.001.gltfhash4ac485-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "public/scenes/New-Scene.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "New-Scene.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/New-Scene.thumbnail.jpg",
+    "thumbnailMode": "custom"
   }
 }
