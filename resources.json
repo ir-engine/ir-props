@@ -1166,10 +1166,11 @@
   "assets/models/DeSo_Inflatable_Display.gltf": {
     "type": "asset",
     "tags": [
+      "prop",
       "Model"
     ],
     "dependencies": [],
-    "name": "DeSo_Inflatable_Display.gltf",
+    "name": "Inflatable Display",
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/c9f61152034152e72ac961329ef3b998a5b6337d63e32c.png",
     "thumbnailMode": "automatic"
   },
@@ -1193,6 +1194,70 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsDining_table.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Dojo_Display_Round.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Dojo_Display_Round.bin"
+  },
+  "assets/models/Dojo_Display_Round.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "table",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Dojo Round Table",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1140b8c01eba4aa47b2cabbca0e9fe00d1d425581efdc4.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Dojo_Display_Tree.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Dojo_Display_Tree.bin"
+  },
+  "assets/models/Dojo_Display_Tree.gltf": {
+    "type": "asset",
+    "tags": [
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Dojo Display Tree",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/de19000d180c06a2cce6488248b2e0bc20254a9b55e811.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Dojo_Display.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Dojo Display",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/15b3de77eb9d6a6d212ecbbaf8c23786eebe17ff4df57f.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Dojo_Table.gltf": {
+    "type": "asset",
+    "tags": [
+      "furniture",
+      "table",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Dojo Table",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/32eb4a39a2ca09da43cf1271c6f16bd403bef2b7eb71c3.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Egg_chair_half.001.bin": {
@@ -1229,6 +1294,90 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsEgg_chair.001.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Elevated_Minimalist_Props.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "Elevated_Minimalist_Props.bin"
+  },
+  "assets/models/ElMi_Chair.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "ElMi_Chair.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/d946bf4b5d74382811915340ae71aa45161cd674f7ab85.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/ElMi_Loveseat.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "ElMi_Loveseat.bin"
+  },
+  "assets/models/ElMi_Loveseat.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "chair",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Minimalist Loveseat",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ae7eccf278226aeca1ef3b33c6eaeb7b8fcddb70e10550.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/ElMi_Sofa.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "ElMi_Sofa.bin"
+  },
+  "assets/models/ElMi_Sofa.gltf": {
+    "type": "asset",
+    "tags": [
+      "furniture",
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Minimalist Sofa",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/a89d78cb6f7da93f8ab37d105ec115811ff95eba3fb4c0.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/ElMi_Table_Round.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "table",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Minimalist Round Table",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/7f98ae66a63f9d0a086732dc16f3b4110ecc883043966a.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/ElMi_Table_Square.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "table",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Minimalist Table",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/02927bc91d031373116cfbfc4879dc4106c9f77aac5caf.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Exhibition_base_color.png": {
@@ -1445,6 +1594,34 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelslinelamp.002.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "assets/models/Log_Displays_BaseColor.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Log_Displays_BaseColor.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ab87303af2b6851d9ceaca8d75f817367444500524ac88.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Log_Displays_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Log_Displays_Normal.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/4b68e2e5706314d7ef39bbef6c0eea919ebe4b01048d6c.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/Log_Displays_ORM.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Log_Displays_ORM.png"
   },
   "assets/models/Makeup_console.bin": {
     "type": "file",
@@ -1678,6 +1855,78 @@
       "unknown"
     ],
     "dependencies": []
+  },
+  "assets/models/MoSt_Wall_Shelf.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "MoSt_Wall_Shelf.bin"
+  },
+  "assets/models/MoSt_Wall_Shelf.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "MoSt_Wall_Shelf.gltf"
+  },
+  "assets/models/MoSt_Wood_Table.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "MoSt_Wood_Table.gltf"
+  },
+  "assets/models/Natural_store_trimsheet_1_Base_color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Natural_store_trimsheet_1_Base_color.png"
+  },
+  "assets/models/Natural_store_trimsheet_1_Normal_OpenGL.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Natural_store_trimsheet_1_Normal_OpenGL.png"
+  },
+  "assets/models/Natural_store_trimsheet_ORM.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "Natural_store_trimsheet_ORM.png"
+  },
+  "assets/models/oak_wood_sawn_Base02_Color.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "oak_wood_sawn_Base02_Color.png"
+  },
+  "assets/models/oak_wood_sawn_Normal.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "oak_wood_sawn_Normal.png"
+  },
+  "assets/models/oak_wood_sawn_Roughness.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "oak_wood_sawn_Roughness.png"
   },
   "assets/models/Office_-_Computer_1.001.bin": {
     "type": "file",
@@ -2257,6 +2506,30 @@
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsPouf_chair.001.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
+  },
+  "assets/models/ReNe_Clothing_Wall.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "ReNe_Clothing_Wall.gltf"
+  },
+  "assets/models/ReNe_Rectangle_Island.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "ReNe_Rectangle_Island.bin"
+  },
+  "assets/models/ReNe_Round_Table.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "ReNe_Round_Table.bin"
   },
   "assets/models/Round_Table.001.bin": {
     "type": "file",
@@ -3076,13 +3349,5 @@
     ],
     "dependencies": [],
     "name": "Walls_01_lightmap-Exhibition_ORM.png"
-  },
-  "public/scenes/New-Scene.gltf": {
-    "type": "scene",
-    "tags": [
-      "Model"
-    ],
-    "dependencies": [],
-    "name": "New-Scene.gltf"
   }
 }

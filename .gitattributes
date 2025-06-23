@@ -1,3 +1,4 @@
+assets/models/Natural_store_trimsheet_1_Normal_OpenGL.png filter=lfs diff=lfs merge=lfs -text
 assets/models/textures/Furniture_pack_1_Normal_OpenGL.png filter=lfs diff=lfs merge=lfs -text
 assets/models/textures/Natural_store_trimsheet_1_Normal_OpenGL.png filter=lfs diff=lfs merge=lfs -text
 assets/models/textures/Office_Furniture_Trimsheet_Normal_OpenGL.png filter=lfs diff=lfs merge=lfs -text
