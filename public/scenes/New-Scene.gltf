@@ -1,8 +1,22 @@
 {
   "asset": {
-    "generator": "IREngine.SceneExporter",
-    "version": "2.0"
+    "version": "2.0",
+    "generator": "THREE.GLTFExporter"
   },
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "scene": 0,
   "nodes": [
     {
       "name": "Settings",
@@ -47,13 +61,12 @@
           "minCameraDistance": 1,
           "maxCameraDistance": 50,
           "startCameraDistance": 3,
-          "cameraMode": "Dynamic",
-          "cameraModeDefault": "ThirdPerson",
+          "cameraMode": 5,
+          "cameraModeDefault": 2,
           "minPhi": -70,
           "maxPhi": 85
         },
         "EE_postprocessing": {
-          "enabled": false,
           "effects": {
             "SSREffect": {
               "isActive": false,
@@ -315,7 +328,8 @@
               "blur": false,
               "kernelSize": 1
             }
-          }
+          },
+          "enabled": false
         },
         "EE_render_settings": {
           "primaryLight": "cb045cfd-8daf-4a2b-b764-35625be54a11",
@@ -331,14 +345,12 @@
           "primaryColor": "#B3B3B3",
           "backgroundColor": "#2C2C2C",
           "alternativeColor": "#A1A1A1",
-          "sceneKillHeight": -10,
-          "spectateEntity": ""
+          "sceneKillHeight": -10
         },
         "EE_visible": true
       }
     },
     {
-      "name": "scene preview camera",
       "matrix": [
         1,
         0,
@@ -357,6 +369,7 @@
         5,
         1
       ],
+      "name": "scene preview camera",
       "extensions": {
         "EE_uuid": "bb362197-f14d-4da7-9c3c-1ed834386423",
         "EE_scene_preview_camera": {}
@@ -385,7 +398,6 @@
       }
     },
     {
-      "name": "spawn point",
       "matrix": [
         -1,
         1.0106430996148606e-15,
@@ -404,6 +416,7 @@
         0,
         1
       ],
+      "name": "spawn point",
       "extensions": {
         "EE_uuid": "3e8a430e-9dcf-440e-990c-44ecb8051762",
         "EE_visible": true,
@@ -425,7 +438,6 @@
       }
     },
     {
-      "name": "directional light",
       "matrix": [
         0.8201518642540717,
         0.2860729507918132,
@@ -444,15 +456,16 @@
         0,
         1
       ],
+      "name": "directional light",
       "extensions": {
         "EE_uuid": "cb045cfd-8daf-4a2b-b764-35625be54a11",
         "EE_directional_light": {
           "color": 16777215,
           "intensity": 1,
+          "cameraFar": 50,
           "castShadow": true,
           "shadowBias": -0.00001,
-          "shadowRadius": 1,
-          "cameraFar": 50
+          "shadowRadius": 1
         },
         "EE_visible": true
       }
@@ -460,13 +473,11 @@
     {
       "name": "platform",
       "extensions": {
-        "EE_uuid": "685c48da-e2a0-4a9a-af7c-c5a3c187c99a",
         "EE_model": {
           "src": "__$project$__/ir-engine/default-project/assets/platform.glb",
-          "cameraOcclusion": true,
-          "applyColliders": false,
-          "shape": "box"
+          "cameraOcclusion": true
         },
+        "EE_uuid": "685c48da-e2a0-4a9a-af7c-c5a3c187c99a",
         "EE_visible": true,
         "EE_shadow": {
           "cast": true,
@@ -476,69 +487,10 @@
           "type": "Skybox",
           "envMapSourceColor": 4095,
           "envMapSourceURL": "",
-          "envMapCubemapURL": "",
           "envMapSourceEntityUUID": "",
           "envMapIntensity": 1
         }
       }
-    },
-    {
-      "name": "Aur_Chair",
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1,
-        0,
-        1.5,
-        1
-      ],
-      "extensions": {
-        "EE_uuid": "81502bec-fa68-45a1-bd4c-5eb19691f516",
-        "EE_model": {
-          "src": "__$project$__/ir-engine/ir-props/assets/models/Aurelia_Props/Aur_Chair.gltf?hash=ab44bc",
-          "cameraOcclusion": true,
-          "applyColliders": false,
-          "shape": "box"
-        },
-        "EE_shadow": {
-          "cast": true,
-          "receive": true
-        },
-        "EE_envmap": {
-          "type": "Skybox",
-          "envMapSourceColor": 8421631,
-          "envMapSourceURL": "",
-          "envMapCubemapURL": "",
-          "envMapSourceEntityUUID": "",
-          "envMapIntensity": 1
-        },
-        "EE_visible": true
-      }
-    }
-  ],
-  "scene": 0,
-  "scenes": [
-    {
-      "nodes": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
     }
   ],
   "extensionsUsed": [
@@ -550,13 +502,16 @@
     "EE_render_settings",
     "EE_scene_settings",
     "EE_visible",
+    "EE_ecs",
     "EE_scene_preview_camera",
     "EE_skybox",
+    "EE_resourceId",
+    "EE_ground_plane",
+    "EE_shadow",
+    "EE_rigidbody",
+    "EE_collider",
     "EE_spawn_point",
     "EE_hemisphere_light",
-    "EE_directional_light",
-    "EE_model",
-    "EE_shadow",
-    "EE_envmap"
+    "EE_directional_light"
   ]
 }
