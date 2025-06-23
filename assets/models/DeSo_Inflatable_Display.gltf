@@ -1,0 +1,246 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.43",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "created_collider" : {},
+                "uuid" : "bf2a6959-0ba9-483f-aa36-58dada9d86a6",
+                "assets reported" : {}
+            },
+            "name" : "Scene",
+            "nodes" : [
+                2
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Inflatable_display_mesh",
+            "translation" : [
+                0,
+                0.5103327631950378,
+                0
+            ]
+        },
+        {
+            "extras" : {
+                "xrengine.EE_collider.shape" : "box",
+                "xrengine.entity" : "Inflatable_display_mesh_bcol"
+            },
+            "mesh" : 1,
+            "name" : "Inflatable_display_mesh_bcol"
+        },
+        {
+            "children" : [
+                0,
+                1
+            ],
+            "extras" : {
+                "xrengine.EE_rigidbody.type" : "fixed",
+                "xrengine.entity" : ""
+            },
+            "name" : "DeSt_Inflatable_Display"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Displays",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.15322032570838928,
+                    0.5328742265701294,
+                    0.8011890649795532,
+                    0.9948186278343201
+                ],
+                "metallicFactor" : 0,
+                "metallicRoughnessTexture" : {
+                    "index" : 1
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cube.015",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Inflatable_display_Normal",
+            "uri" : "Inflatable_display_Normal.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Inflatable_display_Roughness",
+            "uri" : "Inflatable_display_Roughness.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 7474,
+            "max" : [
+                0.5493110418319702,
+                0.5859528183937073,
+                0.5470678806304932
+            ],
+            "min" : [
+                -0.5481644868850708,
+                -0.5087601542472839,
+                -0.5475409030914307
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 7474,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 7474,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 39096,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 24,
+            "max" : [
+                0.5493110418319702,
+                1.0962857007980347,
+                0.5470679998397827
+            ],
+            "min" : [
+                -0.5481644868850708,
+                0.0015724897384643555,
+                -0.5475410223007202
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 24,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 36,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 89688,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 89688,
+            "byteOffset" : 89688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 59792,
+            "byteOffset" : 179376
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 78192,
+            "byteOffset" : 239168
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 317360
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 288,
+            "byteOffset" : 317648
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 317936
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 318128
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 318200,
+            "uri" : "DeSo_Inflatable_Display.bin"
+        }
+    ]
+}
