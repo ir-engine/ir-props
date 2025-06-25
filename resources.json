@@ -59,6 +59,14 @@
     "dependencies": [],
     "name": "Aur_DisplayStand_ShortWide.bin"
   },
+  "assets/models/Aur_DisplayStand_ShortWideM.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Aur_DisplayStand_ShortWideM.gltf"
+  },
   "assets/models/Aur_DisplayStand_tall2.bin": {
     "type": "asset",
     "tags": [
@@ -90,7 +98,7 @@
     ],
     "dependencies": [],
     "name": "Aurelia_Atlas_01_base_color.png",
-    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/57d89ae08ec04230e0da363a973ed7cf11c847523bff03.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/f4b57bb589a887005cd56f4343b484206e515d749c2311.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_01_normal.png": {
@@ -109,7 +117,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_01_ORM.png"
+    "name": "Aurelia_Atlas_01_ORM.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/f02af89434d7041e3a19c5bb155b417dee5f18ba9852b2.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_01_Roughness.png": {
     "type": "asset",
@@ -128,7 +138,7 @@
     ],
     "dependencies": [],
     "name": "Aurelia_Atlas_02_Base_color.png",
-    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/5ef77ce20e08de4deb25e860d335941f592f8748496327.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/c6048c934db62b96ce5bd12905ede58b56edc3b74644bb.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_02_Normal_OpenGL.png": {
@@ -148,7 +158,7 @@
     ],
     "dependencies": [],
     "name": "Aurelia_Atlas_02_Normal.png",
-    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/d77525414dd025f886c81f08cdb3c7c1967f15044eeb00.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/cc59dfedc729391ed4727566aa608c58c2f4f99b3ab383.png",
     "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Atlas_02_Roughness.png": {
@@ -157,7 +167,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Aurelia_Atlas_02_Roughness.png"
+    "name": "Aurelia_Atlas_02_Roughness.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2a8274b93863ceb52c04c4a6db4a7c1f4504cd5471aac4.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Aurelia_Props/Aur_CenterRack.bin": {
     "type": "asset",
@@ -1260,6 +1272,337 @@
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/32eb4a39a2ca09da43cf1271c6f16bd403bef2b7eb71c3.png",
     "thumbnailMode": "automatic"
   },
+  "assets/models/EE_BigScreen.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "EE_BigScreen.bin"
+  },
+  "assets/models/EE_BigScreen.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Long Display ",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/638f4bebccbfd78f87ac7673ddbde745da431256c27315.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_BookRack_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Book Rack",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/dce82e99474c3dbdbcd07d924229d69c54822bb7c6411d.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Carpet_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Large Indoor Carpet",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/357db1f3ccd5a60d01b730a07ab23f4fb53b27ae580670.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Carpet_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Gray Indoor Carpet",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/eb50cf71c1e7b05b64614b39ee5bd947b1e2204c3ac578.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Carpet_03.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Small Gray Indoor Carpet",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/01487481687cef8b19a5ec7d43e061278b57caacafab53.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Ceiling_Lamp_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "EE_Ceiling_Lamp_02.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/971ea63fbe47ac99c9e851927b3cd18bdee0267e6fb55a.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_CenterTable01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "table",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Glass Coffee Table",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2745ca70657f8484e43e54e4c818104fd6748f21b47464.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Corner_Lamp_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Curved Floor Lamp ",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/453d78b58bebc8df95c4286c444b04c331d7a2318d6e87.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Corner_Table_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Accent Table with Books",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/cf1e8f99245f2b15c9f04be7cfd86e44f3b596d7dfbd9a.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Corner_Table_02.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "EE_Corner_Table_02.bin"
+  },
+  "assets/models/EE_Corner_Table_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "furniture",
+      "table",
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Curved Corner Table",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1a6fd62907c7b78d9d2229a22671e07be993d2750a8d4b.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Hero_Product_Display.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Modern Display Pedestal",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/8084da9da08de55e4323e0cc4118b30e1d4e3c48865a51.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Horse_Figurine_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Horse Figurine",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/524e9e9ec31324d097264062293ff0b05688afdc69584e.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Planter_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Indoor Planter",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/fda634ee1484c3c50ed56b327f64f0c4e4b6d92d1df70c.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Planter_04.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "EE_Planter_04.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ef8eabf4f394b953d8ea63e73dc1e84de8f117e443a6a2.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Secondary_Product_Display.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Tall Modern Sideboard",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ebcea56bbd3d851d5cb6a22b8cfe1261dbef863c22c7ff.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_SetDress_Albedo.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "EE_SetDress_Albedo.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/582442a2d1be54c7880c0a18d39f3ed9ad1acf8555f531.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_SetDress_Normals.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "EE_SetDress_Normals.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/bdf438da03d3839f75b48ea83deab8d7852dde2fb1581d.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_SetDress_ORM.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "EE_SetDress_ORM.png"
+  },
+  "assets/models/EE_SingleSeater_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "chair",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Single Seat Sofa",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/00b8c0ee2c83b91b34b5f1e1aa912cb4a21e6adce14545.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Sofa2Seater_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Two Seat Sofa",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2f8260169b81430b62157cb49a0f2aafa5fda14cb5f16c.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Sofa3Seater_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "EE_Sofa3Seater_01.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/c8d463d8566e3f2c63b4a075083c317a2a7aeb94fe7fcb.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_StorageDisUnit_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "furniture",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Large Metal Shelf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1f3404f44ab92fe2ff1ab971ddad917e265edaeac4a6e1.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_StorageDisUnit_04.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "EE_StorageDisUnit_04.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/6ffd2c1a44672c3b0e519491a3d7c83540f9a1a3e66fc9.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Table_Lamp_01.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "EE_Table_Lamp_01.bin"
+  },
+  "assets/models/EE_Table_Lamp_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Round Table Lamp",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1ebc19081e2f19099af07d19246dc6067be55538406a5d.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_Wall_Lamp_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Thin Wall Lamp",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/c4073a04b3a66833b41c02a365ccd0940ae68153a8aeb3.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_WallMountShelves_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Wide Glass Wall Shelf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/0f92c99622febf71be76310f60c3222879a85f99a0b9a3.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_WallMountShelves_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Glass Wall Shelf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/d851562da1b9f5229c2131591b9f409d18364bbd21c8f9.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/EE_WallMountShelves_03.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Glass Standing Shelf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2d89c493d298c199c1c2b5ac7722093e7749ffadcdddba.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/models/Egg_chair_half.001.bin": {
     "type": "file",
     "tags": [
@@ -1886,7 +2229,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Natural_store_trimsheet_1_Base_color.png"
+    "name": "Natural_store_trimsheet_1_Base_color.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ade8c9bab2c373ba3b718b8c525d309abba1a1b1e10d57.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_store_trimsheet_1_Normal_OpenGL.png": {
     "type": "asset",
@@ -1894,7 +2239,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "Natural_store_trimsheet_1_Normal_OpenGL.png"
+    "name": "Natural_store_trimsheet_1_Normal_OpenGL.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/9633baac6372e18e12cf58e635b935842a824238aae50e.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Natural_store_trimsheet_ORM.png": {
     "type": "asset",
@@ -3140,13 +3487,36 @@
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelstriangle_plinths.gltf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
-  "assets/models/UpLu_Checkout_Counter.bin": {
+  "assets/models/UpLu_Diff-1.png": {
     "type": "asset",
     "tags": [
-      "unknown"
+      "Image"
     ],
     "dependencies": [],
-    "name": "UpLu_Checkout_Counter.bin"
+    "name": "UpLu_Diff-1.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/5e7645ba3c94e88d7b3b063aeac7765fac2200f72d26d3.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Diff.png": {
+    "type": "asset",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "name": "UpLu_Diff.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/8d0747cca4cb8e67fd3727ddc41196e7c57e36d92025ca.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Glass_Wall_Shelf.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Upscale Luxury Small Wall Shelf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/9a305c5ef231e76148859870c4e195d4d961c2d8119042.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/UpLu_Green_Wall_with_Sign.bin": {
     "type": "asset",
@@ -3159,10 +3529,62 @@
   "assets/models/UpLu_Green_Wall_with_Sign.gltf": {
     "type": "asset",
     "tags": [
+      "prop",
       "Model"
     ],
     "dependencies": [],
-    "name": "UpLu_Green_Wall_with_Sign.gltf"
+    "name": "Upscale Luxury Green Wall",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/52c05a61788e6797deae27860f430a78a2c92a844d64d5.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Light_01.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "UpLu_Light_01.bin"
+  },
+  "assets/models/UpLu_Light_01.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Upscale Luxury Light 01",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/647248a1a7f8141a204fc76646ecf07eca7da785494cf4.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Light_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Upscale Luxury Light 02",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/2bfe9ef3c0d404b2f5500c990c467121cd3f1f07e2f7a4.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Light_03.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "UpLu_Light_03.bin"
+  },
+  "assets/models/UpLu_Light_03.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Upscale Luxury Light 03",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/0055af0b20a87171cabeb29860288fdb2fa7ddf6033b7c.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/UpLu_Marble_Planter.bin": {
     "type": "asset",
@@ -3172,13 +3594,37 @@
     "dependencies": [],
     "name": "UpLu_Marble_Planter.bin"
   },
+  "assets/models/UpLu_Marble_Planter.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Marble Planter",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1997582ef831f58fdb976938c4da0539c23e975d227090.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/models/UpLu_Norm.png": {
     "type": "asset",
     "tags": [
       "Image"
     ],
     "dependencies": [],
-    "name": "UpLu_Norm.png"
+    "name": "UpLu_Norm.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/f4b339a453d1d5306e234c84ada75522d4ec79bf80ae02.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Potted_Fern.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Potted Fern",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1ced61afa87b66880929b2ac92b7b20124e06f5aec2863.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/UpLu_Rough-1.png": {
     "type": "asset",
@@ -3186,7 +3632,9 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "UpLu_Rough-1.png"
+    "name": "UpLu_Rough-1.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/f20a9752eb91e9e9e58dc03526787759526525b6140bdd.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/UpLu_Rough.png": {
     "type": "asset",
@@ -3194,15 +3642,94 @@
       "Image"
     ],
     "dependencies": [],
-    "name": "UpLu_Rough.png"
+    "name": "UpLu_Rough.png",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/14435142ec993e5f9f27ece25826348e38fac2b73bcb02.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Round_Display.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Marble Pillar Display",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/fb10f8609ec3d604f6c5f729a72653524f0e61fde71cf0.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Round_Grooved_Display.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Round Grooved Display",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/492aa6c691a863eb432b37e70eadcba2807d86291f71c9.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/UpLu_Round_Marble_Display.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Round Marble Display",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/d65a3bb2788d2774603df5dc018dcc1a97d3b7b51609ec.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Small_Cabinet.gltf": {
+    "type": "asset",
+    "tags": [
+      "furniture",
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Small Wood Cabinet",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/71803ea4ec171f8f23aefbb8791411c47dc69b71535e4f.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Stone_Display_Sm.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Stone Display",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/27b285cc142b710d33058dc8212622f1a551964bf64c79.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Stone_Platform_01.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "UpLu_Stone_Platform_01.bin"
+  },
+  "assets/models/UpLu_Stone_Platform_01.gltf": {
     "type": "asset",
     "tags": [
       "Model"
     ],
     "dependencies": [],
-    "name": "UpLu_Round_Marble_Display.gltf"
+    "name": "UpLu_Stone_Platform_01.gltf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/78ce208a4dbf6fbc6baedfb56b1d1943b3cbea679968ca.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Stone_Platform_02.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Stone Platform",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/08ea6874bb24e825e57b375a5e6fc4c8e805786dd3b534.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/UpLu_Wall_Foliage_small.bin": {
     "type": "asset",
@@ -3212,6 +3739,17 @@
     "dependencies": [],
     "name": "UpLu_Wall_Foliage_small.bin"
   },
+  "assets/models/UpLu_Wall_Foliage_small.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Wall Foliage Small",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/482f89e8bb8bdcad322c031b669bf43659d37dece43489.png",
+    "thumbnailMode": "automatic"
+  },
   "assets/models/UpLu_Wall_Foliage.bin": {
     "type": "asset",
     "tags": [
@@ -3219,6 +3757,36 @@
     ],
     "dependencies": [],
     "name": "UpLu_Wall_Foliage.bin"
+  },
+  "assets/models/UpLu_Wall_Foliage.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Wall Foliage",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/1dcd843c257faad2dfb0c0d3a8753fac7e4c01ce9fc1a3.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/models/UpLu_Wall_Shelf.bin": {
+    "type": "asset",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": [],
+    "name": "UpLu_Wall_Shelf.bin"
+  },
+  "assets/models/UpLu_Wall_Shelf.gltf": {
+    "type": "asset",
+    "tags": [
+      "prop",
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "Upscale Luxury Wall Shelf",
+    "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/e87f1b07b42b6094b3ca331b012c4de989427b59380ce5.png",
+    "thumbnailMode": "automatic"
   },
   "assets/models/Vase_1.001.bin": {
     "type": "file",
@@ -3340,10 +3908,7 @@
     ],
     "dependencies": [],
     "thumbnailKey": "projects/ir-engine/ir-props/public/thumbnails/ir-propsassetsmodelsWall_shelves_-1.001.gltfhash4ac485-thumbnail.png",
-    "thumbnailMode": "automatic",
-    "width": 3,
-    "height": 0.4,
-    "depth": 0.42
+    "thumbnailMode": "automatic"
   },
   "assets/models/Walls_01_lightmap-Exhibition_ORM.png": {
     "type": "asset",
@@ -3352,5 +3917,13 @@
     ],
     "dependencies": [],
     "name": "Walls_01_lightmap-Exhibition_ORM.png"
+  },
+  "public/scenes/New-Scene.gltf": {
+    "type": "scene",
+    "tags": [
+      "Model"
+    ],
+    "dependencies": [],
+    "name": "New-Scene.gltf"
   }
 }
