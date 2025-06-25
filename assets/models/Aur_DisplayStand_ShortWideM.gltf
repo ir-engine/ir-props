@@ -3,9 +3,6 @@
 		"generator":"Khronos glTF Blender I/O v4.0.44",
 		"version":"2.0"
 	},
-	"extensionsUsed":[
-		"KHR_materials_emissive_strength"
-	],
 	"scene":0,
 	"scenes":[
 		{
@@ -15,7 +12,7 @@
 					"show_analemmas":0,
 					"show_north":0,
 					"latitude":0.0,
-					"day_of_year":66,
+					"day_of_year":90,
 					"sun_object":{},
 					"object_collection":{}
 				},
@@ -287,11 +284,10 @@
 				"muv_pack_uv_enabled":0,
 				"handy_toolset_props":{},
 				"retopo_target":{},
-				"uuid":"eb44b635-cf8f-407b-8bcb-3687f5cabf28",
+				"uuid":"21559b4c-c3a9-4493-a22e-572d848b474d",
 				"assets reported":{},
+				"scatter_properties":{},
 				"recast_navmesh":{},
-				"HubsComponentsExtensionImportProperties":{},
-				"assets used":{},
 				"created_collider":{}
 			},
 			"name":"Scene",
@@ -302,32 +298,35 @@
 	],
 	"nodes":[
 		{
-			"extras":{
-				"MaxHandle":231
-			},
 			"mesh":0,
-			"name":"UpLu_Checkout_Counter.001",
-			"scale":[
-				0.03425418585538864,
-				0.03203902766108513,
-				0.03203902766108513
+			"name":"Aur_DisplayStand_ShortWideM.001",
+			"rotation":[
+				0.5,
+				0.5,
+				-0.5,
+				0.5000000596046448
 			],
 			"translation":[
-				0.0028023719787597656,
-				0.484380841255188,
-				-0.04922135919332504
+				0,
+				0.47875046730041504,
+				0
 			]
 		},
 		{
 			"extras":{
 				"xrengine.EE_collider.shape":"box",
-				"xrengine.entity":"UpLu_Checkout_Counter_bcol"
+				"xrengine.entity":"Aur_DisplayStand_ShortWideM_collider"
 			},
 			"mesh":1,
-			"name":"UpLu_Checkout_Counter_bcol",
+			"name":"Aur_DisplayStand_ShortWideM_collider",
+			"scale":[
+				0.28477203845977783,
+				1,
+				0.15262757241725922
+			],
 			"translation":[
-				0.379317969083786,
 				0,
+				0.47875046730041504,
 				0
 			]
 		},
@@ -337,16 +336,48 @@
 				1
 			],
 			"extras":{
-				"xrengine.EE_rigidbody.type":"fixed",
-				"xrengine.entity":"Upscale_Luxury_Props"
+				"xrengine.entity":"Aur_DisplayStand_ShortWideM"
 			},
-			"name":"UpLu_Checkout_Counter"
+			"name":"Aur_DisplayStand_ShortWideM",
+			"rotation":[
+				0,
+				0.7071066498756409,
+				0,
+				0.70710688829422
+			],
+			"translation":[
+				3.2797865867614746,
+				-0.47249338030815125,
+				7.773052215576172
+			]
 		}
 	],
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Aurelia_Atlas_01",
+			"extras":{
+				"vrm_addon_extension":{
+					"mtoon1":{
+						"pbr_metallic_roughness":{
+							"base_color_texture":{}
+						},
+						"normal_texture":{},
+						"emissive_texture":{},
+						"extensions":{
+							"vrmc_materials_mtoon":{
+								"shade_multiply_texture":{},
+								"shading_shift_texture":{},
+								"matcap_texture":{},
+								"rim_multiply_texture":{},
+								"outline_width_multiply_texture":{},
+								"uv_animation_mask_texture":{}
+							}
+						}
+					}
+				},
+				"blenderkit":{}
+			},
+			"name":"Metal",
 			"normalTexture":{
 				"index":0
 			},
@@ -354,56 +385,15 @@
 				"baseColorTexture":{
 					"index":1
 				},
-				"metallicFactor":0,
 				"metallicRoughnessTexture":{
 					"index":2
 				}
-			}
-		},
-		{
-			"doubleSided":true,
-			"name":"Uplu_Atlas_01",
-			"normalTexture":{
-				"index":3
-			},
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":4
-				},
-				"metallicFactor":0,
-				"metallicRoughnessTexture":{
-					"index":5
-				}
-			}
-		},
-		{
-			"doubleSided":true,
-			"emissiveFactor":[
-				1,
-				1,
-				1
-			],
-			"emissiveTexture":{
-				"index":6
-			},
-			"extensions":{
-				"KHR_materials_emissive_strength":{
-					"emissiveStrength":4.199999809265137
-				}
-			},
-			"name":"Uplu_Light",
-			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":7
-				},
-				"metallicFactor":0,
-				"roughnessFactor":0.5
 			}
 		}
 	],
 	"meshes":[
 		{
-			"name":"Mesh.027",
+			"name":"Cube.010",
 			"primitives":[
 				{
 					"attributes":{
@@ -413,37 +403,19 @@
 					},
 					"indices":3,
 					"material":0
-				},
+				}
+			]
+		},
+		{
+			"name":"Cube.018",
+			"primitives":[
 				{
 					"attributes":{
 						"POSITION":4,
 						"NORMAL":5,
 						"TEXCOORD_0":6
 					},
-					"indices":7,
-					"material":1
-				},
-				{
-					"attributes":{
-						"POSITION":8,
-						"NORMAL":9,
-						"TEXCOORD_0":10
-					},
-					"indices":11,
-					"material":2
-				}
-			]
-		},
-		{
-			"name":"Cube.017",
-			"primitives":[
-				{
-					"attributes":{
-						"POSITION":12,
-						"NORMAL":13,
-						"TEXCOORD_0":14
-					},
-					"indices":15
+					"indices":7
 				}
 			]
 		}
@@ -460,33 +432,13 @@
 		{
 			"sampler":0,
 			"source":2
-		},
-		{
-			"sampler":0,
-			"source":3
-		},
-		{
-			"sampler":0,
-			"source":4
-		},
-		{
-			"sampler":0,
-			"source":5
-		},
-		{
-			"sampler":0,
-			"source":4
-		},
-		{
-			"sampler":0,
-			"source":4
 		}
 	],
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"UpLu_Norm",
-			"uri":"UpLu_Norm.png"
+			"name":"Aurelia_Atlas_01_normal",
+			"uri":"Aurelia_Atlas_01_normal.png"
 		},
 		{
 			"mimeType":"image/png",
@@ -495,158 +447,75 @@
 		},
 		{
 			"mimeType":"image/png",
-			"name":"Aurelia_Atlas_01_Roughness",
-			"uri":"Aurelia_Atlas_01_Roughness.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"UpLu_Rough",
-			"uri":"UpLu_Rough.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"UpLu_Diff",
-			"uri":"UpLu_Diff.png"
-		},
-		{
-			"mimeType":"image/png",
-			"name":"UpLu_Rough",
-			"uri":"UpLu_Rough-1.png"
+			"name":"Aurelia_Atlas_01_ORM",
+			"uri":"Aurelia_Atlas_01_ORM.png"
 		}
 	],
 	"accessors":[
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":5628,
+			"count":132,
 			"max":[
-				55.99235534667969,
-				15.34277057647705,
-				18.069578170776367
+				0.1516437530517578,
+				0.28725194931030273,
+				0.4787504971027374
 			],
 			"min":[
-				-56.93293380737305,
-				-13.709095001220703,
-				-18.113435745239258
+				-0.1516432762145996,
+				-0.28725385665893555,
+				-0.20730048418045044
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":5628,
+			"count":132,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":5628,
+			"count":132,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":15156,
+			"count":198,
 			"type":"SCALAR"
 		},
 		{
 			"bufferView":4,
 			"componentType":5126,
-			"count":712,
+			"count":24,
 			"max":[
-				51.03978729248047,
-				-13.373873710632324,
-				11.360221862792969
+				1,
+				0.20720423758029938,
+				1
 			],
 			"min":[
-				-52.08321762084961,
-				-19.55512809753418,
-				-11.067913055419922
+				-1,
+				-0.4787493944168091,
+				-1
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":5,
 			"componentType":5126,
-			"count":712,
+			"count":24,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":6,
 			"componentType":5126,
-			"count":712,
+			"count":24,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":7,
-			"componentType":5123,
-			"count":2448,
-			"type":"SCALAR"
-		},
-		{
-			"bufferView":8,
-			"componentType":5126,
-			"count":408,
-			"max":[
-				50.166290283203125,
-				-15.848461151123047,
-				10.493213653564453
-			],
-			"min":[
-				-51.209720611572266,
-				-17.23587417602539,
-				-10.200905799865723
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":9,
-			"componentType":5126,
-			"count":408,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":10,
-			"componentType":5126,
-			"count":408,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":11,
-			"componentType":5123,
-			"count":1224,
-			"type":"SCALAR"
-		},
-		{
-			"bufferView":12,
-			"componentType":5126,
-			"count":24,
-			"max":[
-				1.541456937789917,
-				0.9759483337402344,
-				0.5297103524208069
-			],
-			"min":[
-				-2.326706886291504,
-				-0.14214646816253662,
-				-0.629558265209198
-			],
-			"type":"VEC3"
-		},
-		{
-			"bufferView":13,
-			"componentType":5126,
-			"count":24,
-			"type":"VEC3"
-		},
-		{
-			"bufferView":14,
-			"componentType":5126,
-			"count":24,
-			"type":"VEC2"
-		},
-		{
-			"bufferView":15,
 			"componentType":5123,
 			"count":36,
 			"type":"SCALAR"
@@ -655,98 +524,50 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":67536,
+			"byteLength":1584,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":67536,
-			"byteOffset":67536,
+			"byteLength":1584,
+			"byteOffset":1584,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":45024,
-			"byteOffset":135072,
+			"byteLength":1056,
+			"byteOffset":3168,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":30312,
-			"byteOffset":180096,
-			"target":34963
-		},
-		{
-			"buffer":0,
-			"byteLength":8544,
-			"byteOffset":210408,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":8544,
-			"byteOffset":218952,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":5696,
-			"byteOffset":227496,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":4896,
-			"byteOffset":233192,
-			"target":34963
-		},
-		{
-			"buffer":0,
-			"byteLength":4896,
-			"byteOffset":238088,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":4896,
-			"byteOffset":242984,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":3264,
-			"byteOffset":247880,
-			"target":34962
-		},
-		{
-			"buffer":0,
-			"byteLength":2448,
-			"byteOffset":251144,
+			"byteLength":396,
+			"byteOffset":4224,
 			"target":34963
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":253592,
+			"byteOffset":4620,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":288,
-			"byteOffset":253880,
+			"byteOffset":4908,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":192,
-			"byteOffset":254168,
+			"byteOffset":5196,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":72,
-			"byteOffset":254360,
+			"byteOffset":5388,
 			"target":34963
 		}
 	],
@@ -758,8 +579,8 @@
 	],
 	"buffers":[
 		{
-			"byteLength":254432,
-			"uri":"UpLu_Checkout_Counter.bin"
+			"byteLength":5460,
+			"uri":"Aur_DisplayStand_ShortWideM.bin"
 		}
 	]
 }
